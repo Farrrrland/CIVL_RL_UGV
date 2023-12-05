@@ -1,0 +1,4009 @@
+1620
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+Episode [1/2000], Score: -1620, Length: 1, Score avg: -1620.0000
+RAND
+Episode [2/2000], Score: -1620, Length: 1, Score avg: -1620.0000
+Episode [3/2000], Score: -1773, Length: 3, Score avg: -1671.0000
+Episode [4/2000], Score: -1620, Length: 1, Score avg: -1658.2500
+Episode [5/2000], Score: -1620, Length: 1, Score avg: -1650.6000
+Episode [6/2000], Score: -1770, Length: 3, Score avg: -1670.5000
+Episode [7/2000], Score: -1620, Length: 1, Score avg: -1663.2857
+Episode [8/2000], Score: -1620, Length: 1, Score avg: -1657.8750
+Episode [9/2000], Score: -1692, Length: 2, Score avg: -1661.6667
+Episode [10/2000], Score: -1695, Length: 2, Score avg: -1665.0000
+RAND
+Episode [11/2000], Score: -1620, Length: 1, Score avg: -1660.9091
+Episode [12/2000], Score: -1692, Length: 2, Score avg: -1663.5000
+RAND
+Episode [13/2000], Score: -1620, Length: 1, Score avg: -1660.1538
+Episode [14/2000], Score: -1758, Length: 3, Score avg: -1667.1429
+RAND
+Episode [15/2000], Score: -1620, Length: 1, Score avg: -1664.0000
+Episode [16/2000], Score: -1692, Length: 2, Score avg: -1665.7500
+Episode [17/2000], Score: -1695, Length: 2, Score avg: -1667.4706
+Episode [18/2000], Score: -1692, Length: 2, Score avg: -1668.8333
+Episode [19/2000], Score: -1692, Length: 2, Score avg: -1670.0526
+RAND
+Episode [20/2000], Score: -1620, Length: 1, Score avg: -1667.5500
+Episode [21/2000], Score: -1695, Length: 2, Score avg: -1668.8571
+RAND
+Episode [22/2000], Score: -1620, Length: 1, Score avg: -1666.6364
+Episode [23/2000], Score: -1761, Length: 3, Score avg: -1670.7391
+RAND
+Episode [24/2000], Score: -1692, Length: 2, Score avg: -1671.6250
+Episode [25/2000], Score: -1692, Length: 2, Score avg: -1672.4400
+Episode [26/2000], Score: -1692, Length: 2, Score avg: -1673.1923
+Episode [27/2000], Score: -1836, Length: 4, Score avg: -1679.2222
+Episode [28/2000], Score: -1764, Length: 3, Score avg: -1682.2500
+Episode [29/2000], Score: -1695, Length: 2, Score avg: -1682.6897
+Episode [30/2000], Score: -1695, Length: 2, Score avg: -1683.1000
+Episode [31/2000], Score: -1695, Length: 2, Score avg: -1683.4839
+RAND
+Episode [32/2000], Score: -1764, Length: 3, Score avg: -1686.0000
+RAND
+Episode [33/2000], Score: -1983, Length: 6, Score avg: -1695.0000
+Episode [34/2000], Score: -1914, Length: 5, Score avg: -1701.4412
+Episode [35/2000], Score: -1758, Length: 3, Score avg: -1703.0571
+RAND
+Episode [36/2000], Score: -1833, Length: 4, Score avg: -1706.6667
+RAND
+Episode [37/2000], Score: -1917, Length: 5, Score avg: -1712.3514
+Episode [38/2000], Score: -1827, Length: 4, Score avg: -1715.3684
+Episode [39/2000], Score: -1777, Length: 4, Score avg: -1716.9487
+Episode [40/2000], Score: -1758, Length: 3, Score avg: -1717.9750
+Episode [41/2000], Score: -1761, Length: 3, Score avg: -1719.0244
+Episode [42/2000], Score: -1764, Length: 3, Score avg: -1720.0952
+Episode [43/2000], Score: -1758, Length: 3, Score avg: -1720.9767
+Episode [44/2000], Score: -1827, Length: 4, Score avg: -1723.3864
+Episode [45/2000], Score: -1758, Length: 3, Score avg: -1724.1556
+Episode [46/2000], Score: -1758, Length: 3, Score avg: -1724.8913
+RAND
+RAND
+Episode [47/2000], Score: -1761, Length: 3, Score avg: -1725.6596
+Episode [48/2000], Score: -1758, Length: 3, Score avg: -1726.3333
+RAND
+Episode [49/2000], Score: -1620, Length: 1, Score avg: -1724.1633
+Episode [50/2000], Score: -1758, Length: 3, Score avg: -1724.8400
+Episode [51/2000], Score: -1777, Length: 4, Score avg: -1725.8627
+Episode [52/2000], Score: -1962, Length: 8, Score avg: -1730.4038
+Episode [53/2000], Score: -1834, Length: 5, Score avg: -1732.3585
+Episode [54/2000], Score: -1777, Length: 4, Score avg: -1733.1852
+Episode [55/2000], Score: -1827, Length: 4, Score avg: -1734.8909
+Episode [56/2000], Score: -1777, Length: 4, Score avg: -1735.6429
+RAND
+Episode [57/2000], Score: -1823, Length: 6, Score avg: -1737.1754
+Episode [58/2000], Score: -1777, Length: 4, Score avg: -1737.8621
+RAND
+Episode [59/2000], Score: -1830, Length: 4, Score avg: -1739.4237
+Episode [60/2000], Score: -1803, Length: 5, Score avg: -1740.4833
+Episode [61/2000], Score: -1979, Length: 9, Score avg: -1744.3934
+RAND
+Episode [62/2000], Score: -1777, Length: 4, Score avg: -1744.9194
+RAND
+Episode [63/2000], Score: -1620, Length: 1, Score avg: -1742.9365
+Episode [64/2000], Score: -1953, Length: 7, Score avg: -1746.2188
+Episode [65/2000], Score: -1803, Length: 5, Score avg: -1747.0923
+Episode [66/2000], Score: -1950, Length: 8, Score avg: -1750.1667
+RAND
+Episode [67/2000], Score: -1844, Length: 7, Score avg: -1751.5672
+Episode [68/2000], Score: -1834, Length: 5, Score avg: -1752.7794
+RAND
+Episode [69/2000], Score: -1988, Length: 7, Score avg: -1756.1884
+RAND
+Episode [70/2000], Score: -1850, Length: 5, Score avg: -1757.5286
+RAND
+Episode [71/2000], Score: -2058, Length: 9, Score avg: -1761.7606
+Episode [72/2000], Score: -1875, Length: 7, Score avg: -1763.3333
+Episode [73/2000], Score: -1975, Length: 7, Score avg: -1766.2329
+RAND
+Episode [74/2000], Score: -1777, Length: 4, Score avg: -1766.3784
+RAND
+Episode [75/2000], Score: -1847, Length: 5, Score avg: -1767.4533
+RAND
+RAND
+Episode [76/2000], Score: -1834, Length: 5, Score avg: -1768.3289
+Episode [77/2000], Score: -2042, Length: 8, Score avg: -1771.8831
+Episode [78/2000], Score: -1888, Length: 6, Score avg: -1773.3718
+RAND
+Episode [79/2000], Score: -1834, Length: 5, Score avg: -1774.1392
+RAND
+Episode [80/2000], Score: -1761, Length: 3, Score avg: -1773.9750
+Episode [81/2000], Score: -1888, Length: 6, Score avg: -1775.3827
+RAND
+Episode [82/2000], Score: -1777, Length: 4, Score avg: -1775.4024
+Episode [83/2000], Score: -1934, Length: 8, Score avg: -1777.3133
+Episode [84/2000], Score: -1975, Length: 10, Score avg: -1779.6667
+Episode [85/2000], Score: -2040, Length: 10, Score avg: -1782.7294
+RAND
+Episode [86/2000], Score: -1620, Length: 1, Score avg: -1780.8372
+Episode [87/2000], Score: -1934, Length: 8, Score avg: -1782.5977
+Episode [88/2000], Score: -2264, Length: 11, Score avg: -1788.0682
+RAND
+Episode [89/2000], Score: -1799, Length: 5, Score avg: -1788.1910
+RAND
+Episode [90/2000], Score: -1902, Length: 5, Score avg: -1789.4556
+RAND
+Episode [91/2000], Score: -1823, Length: 6, Score avg: -1789.8242
+Episode [92/2000], Score: -1888, Length: 6, Score avg: -1790.8913
+RAND
+Episode [93/2000], Score: -1620, Length: 1, Score avg: -1789.0538
+[0, 5, 6, 1, 6, 7, 3, 4, 8, 9]
+Episode [94/2000], Score: 1087, Length: 9, Score avg: -1758.4574
+[0, 1, 2, 1, 2, 3, 4, 8, 9]
+Episode [95/2000], Score: 1163, Length: 8, Score avg: -1727.7053
+[0, 1, 2, 3, 4, 8, 9]
+Episode [96/2000], Score: 1301, Length: 6, Score avg: -1696.1562
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [97/2000], Score: 1301, Length: 6, Score avg: -1665.2577
+RAND
+Episode [98/2000], Score: -1620, Length: 1, Score avg: -1664.7959
+[0, 5, 6, 7, 3, 4, 8, 9]
+Episode [99/2000], Score: 1231, Length: 7, Score avg: -1635.5455
+[0, 1, 2, 3, 4, 8, 9]
+Episode [100/2000], Score: 1301, Length: 6, Score avg: -1606.1800
+[0, 1, 2, 3, 4, 8, 9]
+Episode [101/2000], Score: 1301, Length: 6, Score avg: -1577.3960
+RAND
+Episode [102/2000], Score: -1695, Length: 2, Score avg: -1578.5490
+[0, 1, 2, 3, 4, 8, 9]
+Episode [103/2000], Score: 1301, Length: 6, Score avg: -1550.5922
+[0, 1, 2, 3, 4, 8, 9]
+Episode [104/2000], Score: 1301, Length: 6, Score avg: -1523.1731
+RAND
+Episode [105/2000], Score: -1834, Length: 5, Score avg: -1526.1333
+RAND
+Episode [106/2000], Score: -1758, Length: 3, Score avg: -1528.3208
+RAND
+Episode [107/2000], Score: -1777, Length: 4, Score avg: -1530.6449
+[0, 1, 2, 3, 4, 8, 9]
+Episode [108/2000], Score: 1301, Length: 6, Score avg: -1504.4259
+RAND
+[0, 1, 2, 3, 4, 3, 4, 8, 9]
+Episode [109/2000], Score: 1184, Length: 8, Score avg: -1479.7615
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [110/2000], Score: 1301, Length: 6, Score avg: -1454.4818
+[0, 1, 2, 3, 4, 8, 9]
+Episode [111/2000], Score: 1301, Length: 6, Score avg: -1429.6577
+RAND
+Episode [112/2000], Score: -1888, Length: 6, Score avg: -1433.7500
+[0, 1, 2, 3, 4, 8, 9]
+Episode [113/2000], Score: 1301, Length: 6, Score avg: -1409.5487
+RAND
+Episode [114/2000], Score: -1620, Length: 1, Score avg: -1411.3947
+[0, 1, 2, 3, 4, 8, 9]
+Episode [115/2000], Score: 1301, Length: 6, Score avg: -1387.8087
+RAND
+Episode [116/2000], Score: -1758, Length: 3, Score avg: -1391.0000
+RAND
+Episode [117/2000], Score: -1758, Length: 3, Score avg: -1394.1368
+RAND
+Episode [118/2000], Score: -1888, Length: 6, Score avg: -1398.3220
+[0, 1, 2, 3, 4, 8, 9]
+Episode [119/2000], Score: 1301, Length: 6, Score avg: -1375.6387
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [120/2000], Score: 1301, Length: 6, Score avg: -1353.3333
+[0, 1, 2, 3, 4, 8, 9]
+Episode [121/2000], Score: 1301, Length: 6, Score avg: -1331.3967
+RAND
+Episode [122/2000], Score: -1758, Length: 3, Score avg: -1334.8934
+[0, 1, 2, 3, 4, 8, 9]
+Episode [123/2000], Score: 1301, Length: 6, Score avg: -1313.4634
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [124/2000], Score: 1301, Length: 6, Score avg: -1292.3790
+[0, 1, 2, 3, 4, 8, 9]
+Episode [125/2000], Score: 1301, Length: 6, Score avg: -1271.6320
+[0, 1, 2, 3, 4, 8, 9]
+Episode [126/2000], Score: 1301, Length: 6, Score avg: -1251.2143
+[0, 1, 2, 3, 4, 8, 9]
+Episode [127/2000], Score: 1301, Length: 6, Score avg: -1231.1181
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [128/2000], Score: 1301, Length: 6, Score avg: -1211.3359
+[0, 1, 2, 3, 4, 8, 9]
+Episode [129/2000], Score: 1301, Length: 6, Score avg: -1191.8605
+[0, 1, 2, 3, 4, 8, 9]
+Episode [130/2000], Score: 1301, Length: 6, Score avg: -1172.6846
+[0, 1, 2, 3, 4, 8, 9]
+Episode [131/2000], Score: 1301, Length: 6, Score avg: -1153.8015
+RAND
+Episode [132/2000], Score: -1695, Length: 2, Score avg: -1157.9015
+[0, 1, 2, 3, 4, 8, 9]
+Episode [133/2000], Score: 1301, Length: 6, Score avg: -1139.4135
+[0, 1, 2, 3, 4, 8, 9]
+Episode [134/2000], Score: 1301, Length: 6, Score avg: -1121.2015
+RAND
+Episode [135/2000], Score: -1695, Length: 2, Score avg: -1125.4519
+[0, 1, 2, 3, 4, 8, 9]
+Episode [136/2000], Score: 1301, Length: 6, Score avg: -1107.6103
+[0, 1, 2, 3, 4, 8, 9]
+Episode [137/2000], Score: 1301, Length: 6, Score avg: -1090.0292
+[0, 1, 2, 3, 4, 8, 9]
+Episode [138/2000], Score: 1301, Length: 6, Score avg: -1072.7029
+RAND
+Episode [139/2000], Score: -1758, Length: 3, Score avg: -1077.6331
+RAND
+Episode [140/2000], Score: -1758, Length: 3, Score avg: -1082.4929
+RAND
+Episode [141/2000], Score: -1888, Length: 6, Score avg: -1088.2057
+[0, 1, 2, 3, 4, 8, 9]
+Episode [142/2000], Score: 1301, Length: 6, Score avg: -1071.3803
+RAND
+Episode [143/2000], Score: -1834, Length: 5, Score avg: -1076.7133
+[0, 1, 2, 3, 4, 8, 9]
+Episode [144/2000], Score: 1301, Length: 6, Score avg: -1060.2014
+RAND
+Episode [145/2000], Score: -1888, Length: 6, Score avg: -1065.9103
+[0, 1, 2, 3, 4, 8, 9]
+Episode [146/2000], Score: 1301, Length: 6, Score avg: -1049.6986
+[0, 1, 2, 3, 4, 8, 9]
+Episode [147/2000], Score: 1301, Length: 6, Score avg: -1033.7075
+[0, 1, 2, 3, 4, 8, 9]
+Episode [148/2000], Score: 1301, Length: 6, Score avg: -1017.9324
+RAND
+Episode [149/2000], Score: -1758, Length: 3, Score avg: -1022.8993
+[0, 1, 2, 3, 4, 8, 9]
+Episode [150/2000], Score: 1301, Length: 6, Score avg: -1007.4067
+[0, 1, 2, 3, 4, 8, 9]
+Episode [151/2000], Score: 1301, Length: 6, Score avg: -992.1192
+[0, 1, 2, 3, 4, 8, 9]
+Episode [152/2000], Score: 1301, Length: 6, Score avg: -977.0329
+[0, 1, 2, 3, 4, 8, 9]
+Episode [153/2000], Score: 1301, Length: 6, Score avg: -962.1438
+[0, 1, 2, 3, 4, 8, 9]
+Episode [154/2000], Score: 1301, Length: 6, Score avg: -947.4481
+[0, 1, 2, 3, 4, 8, 9]
+Episode [155/2000], Score: 1301, Length: 6, Score avg: -932.9419
+RAND
+Episode [156/2000], Score: -1758, Length: 3, Score avg: -938.2308
+[0, 1, 2, 3, 4, 8, 9]
+Episode [157/2000], Score: 1301, Length: 6, Score avg: -923.9682
+RAND
+Episode [158/2000], Score: -1888, Length: 6, Score avg: -930.0696
+RAND
+Episode [159/2000], Score: -1620, Length: 1, Score avg: -934.4088
+[0, 1, 2, 3, 4, 8, 9]
+Episode [160/2000], Score: 1301, Length: 6, Score avg: -920.4375
+RAND
+Episode [161/2000], Score: -1695, Length: 2, Score avg: -925.2484
+[0, 1, 2, 3, 4, 8, 9]
+Episode [162/2000], Score: 1301, Length: 6, Score avg: -911.5062
+RAND
+Episode [163/2000], Score: -1834, Length: 5, Score avg: -917.1656
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [164/2000], Score: 1301, Length: 6, Score avg: -903.6402
+[0, 1, 2, 3, 4, 8, 9]
+Episode [165/2000], Score: 1301, Length: 6, Score avg: -890.2788
+[0, 1, 2, 3, 4, 8, 9]
+Episode [166/2000], Score: 1301, Length: 6, Score avg: -877.0783
+RAND
+Episode [167/2000], Score: -1620, Length: 1, Score avg: -881.5269
+[0, 1, 2, 3, 4, 8, 9]
+Episode [168/2000], Score: 1301, Length: 6, Score avg: -868.5357
+RAND
+RAND
+Episode [169/2000], Score: -2041, Length: 8, Score avg: -875.4734
+RAND
+Episode [170/2000], Score: -1758, Length: 3, Score avg: -880.6647
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [171/2000], Score: 1301, Length: 6, Score avg: -867.9064
+[0, 1, 2, 3, 4, 8, 9]
+Episode [172/2000], Score: 1301, Length: 6, Score avg: -855.2965
+[0, 1, 2, 3, 4, 8, 9]
+Episode [173/2000], Score: 1301, Length: 6, Score avg: -842.8324
+RAND
+Episode [174/2000], Score: -1620, Length: 1, Score avg: -847.2989
+[0, 1, 2, 3, 4, 8, 9]
+Episode [175/2000], Score: 1301, Length: 6, Score avg: -835.0229
+RAND
+Episode [176/2000], Score: -1695, Length: 2, Score avg: -839.9091
+RAND
+Episode [177/2000], Score: -1834, Length: 5, Score avg: -845.5254
+RAND
+Episode [178/2000], Score: -1695, Length: 2, Score avg: -850.2978
+RAND
+RAND
+RAND
+Episode [179/2000], Score: -1904, Length: 6, Score avg: -856.1844
+[0, 1, 2, 3, 4, 8, 9]
+Episode [180/2000], Score: 1301, Length: 6, Score avg: -844.2000
+RAND
+Episode [181/2000], Score: -1620, Length: 1, Score avg: -848.4862
+RAND
+[0, 1, 2, 3, 4, 8, 4, 8, 9]
+Episode [182/2000], Score: 1190, Length: 8, Score avg: -837.2857
+RAND
+Episode [183/2000], Score: -1620, Length: 1, Score avg: -841.5628
+[0, 1, 2, 3, 4, 8, 9]
+Episode [184/2000], Score: 1301, Length: 6, Score avg: -829.9185
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [185/2000], Score: 1301, Length: 6, Score avg: -818.4000
+[0, 1, 2, 3, 4, 8, 9]
+Episode [186/2000], Score: 1301, Length: 6, Score avg: -807.0054
+RAND
+[0, 1, 2, 3, 4, 3, 4, 8, 9]
+Episode [187/2000], Score: 1184, Length: 8, Score avg: -796.3583
+[0, 1, 2, 3, 4, 8, 9]
+Episode [188/2000], Score: 1301, Length: 6, Score avg: -785.2021
+[0, 1, 2, 3, 4, 8, 9]
+Episode [189/2000], Score: 1301, Length: 6, Score avg: -774.1640
+[0, 1, 2, 3, 4, 8, 9]
+Episode [190/2000], Score: 1301, Length: 6, Score avg: -763.2421
+[0, 1, 2, 3, 4, 8, 9]
+Episode [191/2000], Score: 1301, Length: 6, Score avg: -752.4346
+RAND
+Episode [192/2000], Score: -1888, Length: 6, Score avg: -758.3490
+[0, 1, 2, 3, 4, 8, 9]
+Episode [193/2000], Score: 1301, Length: 6, Score avg: -747.6788
+[0, 1, 2, 3, 4, 8, 9]
+Episode [194/2000], Score: 1301, Length: 6, Score avg: -737.1186
+[0, 1, 2, 3, 4, 8, 9]
+Episode [195/2000], Score: 1301, Length: 6, Score avg: -726.6667
+RAND
+Episode [196/2000], Score: -1620, Length: 1, Score avg: -731.2245
+[0, 1, 2, 3, 4, 8, 9]
+Episode [197/2000], Score: 1301, Length: 6, Score avg: -720.9086
+RAND
+Episode [198/2000], Score: -1777, Length: 4, Score avg: -726.2424
+[0, 1, 2, 3, 4, 8, 9]
+Episode [199/2000], Score: 1301, Length: 6, Score avg: -716.0553
+RAND
+Episode [200/2000], Score: -1834, Length: 5, Score avg: -721.6450
+[0, 1, 2, 3, 4, 8, 9]
+Episode [201/2000], Score: 1301, Length: 6, Score avg: -711.5821
+RAND
+Episode [202/2000], Score: -1620, Length: 1, Score avg: -716.0792
+[0, 1, 2, 3, 4, 8, 9]
+Episode [203/2000], Score: 1301, Length: 6, Score avg: -706.1429
+RAND
+Episode [204/2000], Score: -1695, Length: 2, Score avg: -710.9902
+[0, 1, 2, 3, 4, 8, 9]
+Episode [205/2000], Score: 1301, Length: 6, Score avg: -701.1756
+RAND
+Episode [206/2000], Score: -1620, Length: 1, Score avg: -705.6359
+RAND
+RAND
+Episode [207/2000], Score: -1961, Length: 7, Score avg: -711.7005
+RAND
+Episode [208/2000], Score: -1758, Length: 3, Score avg: -716.7308
+[0, 1, 2, 3, 4, 8, 9]
+Episode [209/2000], Score: 1301, Length: 6, Score avg: -707.0766
+RAND
+[0, 1, 2, 1, 2, 3, 4, 8, 9]
+Episode [210/2000], Score: 1163, Length: 8, Score avg: -698.1714
+[0, 1, 2, 3, 4, 8, 9]
+Episode [211/2000], Score: 1301, Length: 6, Score avg: -688.6967
+RAND
+Episode [212/2000], Score: -1777, Length: 4, Score avg: -693.8302
+[0, 1, 2, 3, 4, 8, 9]
+Episode [213/2000], Score: 1301, Length: 6, Score avg: -684.4648
+[0, 1, 2, 3, 4, 8, 9]
+Episode [214/2000], Score: 1301, Length: 6, Score avg: -675.1869
+RAND
+Episode [215/2000], Score: -1777, Length: 4, Score avg: -680.3116
+[0, 1, 2, 3, 4, 8, 9]
+Episode [216/2000], Score: 1301, Length: 6, Score avg: -671.1389
+[0, 1, 2, 3, 4, 8, 9]
+Episode [217/2000], Score: 1301, Length: 6, Score avg: -662.0507
+RAND
+Episode [218/2000], Score: -1620, Length: 1, Score avg: -666.4450
+RAND
+Episode [219/2000], Score: -1777, Length: 4, Score avg: -671.5160
+RAND
+Episode [220/2000], Score: -1620, Length: 1, Score avg: -675.8273
+[0, 1, 2, 3, 4, 8, 9]
+Episode [221/2000], Score: 1301, Length: 6, Score avg: -666.8824
+[0, 1, 2, 3, 4, 8, 9]
+Episode [222/2000], Score: 1301, Length: 6, Score avg: -658.0180
+[0, 1, 2, 3, 4, 8, 9]
+Episode [223/2000], Score: 1301, Length: 6, Score avg: -649.2332
+[0, 1, 2, 3, 4, 8, 9]
+Episode [224/2000], Score: 1301, Length: 6, Score avg: -640.5268
+[0, 1, 2, 3, 4, 8, 9]
+Episode [225/2000], Score: 1301, Length: 6, Score avg: -631.8978
+RAND
+Episode [226/2000], Score: -1777, Length: 4, Score avg: -636.9646
+RAND
+Episode [227/2000], Score: -1834, Length: 5, Score avg: -642.2379
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [228/2000], Score: 1301, Length: 6, Score avg: -633.7149
+RAND
+Episode [229/2000], Score: -1695, Length: 2, Score avg: -638.3493
+[0, 1, 2, 3, 4, 8, 9]
+Episode [230/2000], Score: 1301, Length: 6, Score avg: -629.9174
+RAND
+Episode [231/2000], Score: -1758, Length: 3, Score avg: -634.8009
+[0, 1, 2, 3, 4, 8, 9]
+Episode [232/2000], Score: 1301, Length: 6, Score avg: -626.4569
+RAND
+Episode [233/2000], Score: -1777, Length: 4, Score avg: -631.3948
+RAND
+[0, 1, 2, 3, 7, 3, 4, 8, 9]
+Episode [234/2000], Score: 1255, Length: 8, Score avg: -623.3333
+RAND
+Episode [235/2000], Score: -1758, Length: 3, Score avg: -628.1617
+[0, 1, 2, 3, 4, 8, 9]
+Episode [236/2000], Score: 1301, Length: 6, Score avg: -619.9873
+RAND
+Episode [237/2000], Score: -1620, Length: 1, Score avg: -624.2068
+[0, 1, 2, 3, 4, 8, 9]
+Episode [238/2000], Score: 1301, Length: 6, Score avg: -616.1176
+[0, 1, 2, 3, 4, 8, 9]
+Episode [239/2000], Score: 1301, Length: 6, Score avg: -608.0962
+[0, 1, 2, 3, 4, 8, 9]
+Episode [240/2000], Score: 1301, Length: 6, Score avg: -600.1417
+[0, 1, 2, 3, 4, 8, 9]
+Episode [241/2000], Score: 1301, Length: 6, Score avg: -592.2531
+RAND
+Episode [242/2000], Score: -1834, Length: 5, Score avg: -597.3843
+RAND
+Episode [243/2000], Score: -1695, Length: 2, Score avg: -601.9012
+RAND
+Episode [244/2000], Score: -1758, Length: 3, Score avg: -606.6393
+RAND
+Episode [245/2000], Score: -1834, Length: 5, Score avg: -611.6490
+[0, 1, 2, 3, 4, 8, 9]
+Episode [246/2000], Score: 1301, Length: 6, Score avg: -603.8740
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [247/2000], Score: 1301, Length: 6, Score avg: -596.1619
+[0, 1, 2, 3, 4, 8, 9]
+Episode [248/2000], Score: 1301, Length: 6, Score avg: -588.5121
+[0, 1, 2, 3, 4, 8, 9]
+Episode [249/2000], Score: 1301, Length: 6, Score avg: -580.9237
+RAND
+Episode [250/2000], Score: -1834, Length: 5, Score avg: -585.9360
+RAND
+RAND
+Episode [251/2000], Score: -1834, Length: 5, Score avg: -590.9084
+[0, 1, 2, 3, 4, 8, 9]
+Episode [252/2000], Score: 1301, Length: 6, Score avg: -583.4008
+RAND
+[0, 5, 0, 1, 2, 3, 4, 8, 9]
+Episode [253/2000], Score: 1151, Length: 8, Score avg: -576.5455
+[0, 1, 2, 3, 4, 8, 9]
+Episode [254/2000], Score: 1301, Length: 6, Score avg: -569.1535
+RAND
+RAND
+Episode [255/2000], Score: -2005, Length: 8, Score avg: -574.7843
+RAND
+Episode [256/2000], Score: -1834, Length: 5, Score avg: -579.7031
+[0, 1, 2, 3, 4, 8, 9]
+Episode [257/2000], Score: 1301, Length: 6, Score avg: -572.3852
+RAND
+Episode [258/2000], Score: -1834, Length: 5, Score avg: -577.2752
+[0, 1, 2, 3, 4, 8, 9]
+Episode [259/2000], Score: 1301, Length: 6, Score avg: -570.0232
+RAND
+Episode [260/2000], Score: -1758, Length: 3, Score avg: -574.5923
+RAND
+[0, 1, 2, 3, 4, 3, 4, 8, 9]
+Episode [261/2000], Score: 1184, Length: 8, Score avg: -567.8544
+[0, 1, 2, 3, 4, 8, 9]
+Episode [262/2000], Score: 1301, Length: 6, Score avg: -560.7214
+[0, 1, 2, 3, 4, 8, 9]
+Episode [263/2000], Score: 1301, Length: 6, Score avg: -553.6426
+[0, 1, 2, 3, 4, 8, 9]
+Episode [264/2000], Score: 1301, Length: 6, Score avg: -546.6174
+[0, 1, 2, 3, 4, 8, 9]
+Episode [265/2000], Score: 1301, Length: 6, Score avg: -539.6453
+[0, 1, 2, 3, 4, 8, 9]
+Episode [266/2000], Score: 1301, Length: 6, Score avg: -532.7256
+[0, 1, 2, 3, 4, 8, 9]
+Episode [267/2000], Score: 1301, Length: 6, Score avg: -525.8577
+RAND
+Episode [268/2000], Score: -1620, Length: 1, Score avg: -529.9403
+[0, 1, 2, 3, 4, 8, 9]
+Episode [269/2000], Score: 1301, Length: 6, Score avg: -523.1338
+RAND
+Episode [270/2000], Score: -1888, Length: 6, Score avg: -528.1889
+RAND
+Episode [271/2000], Score: -1888, Length: 6, Score avg: -533.2066
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [272/2000], Score: 1301, Length: 6, Score avg: -526.4632
+[0, 1, 2, 3, 4, 8, 9]
+Episode [273/2000], Score: 1301, Length: 6, Score avg: -519.7692
+[0, 1, 2, 3, 4, 8, 9]
+Episode [274/2000], Score: 1301, Length: 6, Score avg: -513.1241
+RAND
+Episode [275/2000], Score: -1758, Length: 3, Score avg: -517.6509
+[0, 1, 2, 3, 4, 8, 9]
+Episode [276/2000], Score: 1301, Length: 6, Score avg: -511.0616
+[0, 1, 2, 3, 4, 8, 9]
+Episode [277/2000], Score: 1301, Length: 6, Score avg: -504.5199
+RAND
+Episode [278/2000], Score: -1620, Length: 1, Score avg: -508.5324
+[0, 1, 2, 3, 4, 8, 9]
+Episode [279/2000], Score: 1301, Length: 6, Score avg: -502.0466
+RAND
+Episode [280/2000], Score: -1758, Length: 3, Score avg: -506.5321
+[0, 1, 2, 3, 4, 8, 9]
+Episode [281/2000], Score: 1301, Length: 6, Score avg: -500.0996
+[0, 1, 2, 3, 4, 8, 9]
+Episode [282/2000], Score: 1301, Length: 6, Score avg: -493.7128
+[0, 1, 2, 3, 4, 8, 9]
+Episode [283/2000], Score: 1301, Length: 6, Score avg: -487.3710
+RAND
+Episode [284/2000], Score: -1777, Length: 4, Score avg: -491.9120
+RAND
+Episode [285/2000], Score: -1777, Length: 4, Score avg: -496.4211
+[0, 1, 2, 3, 4, 8, 9]
+Episode [286/2000], Score: 1301, Length: 6, Score avg: -490.1364
+RAND
+Episode [287/2000], Score: -1620, Length: 1, Score avg: -494.0732
+[0, 1, 2, 3, 4, 8, 9]
+Episode [288/2000], Score: 1301, Length: 6, Score avg: -487.8403
+[0, 1, 2, 3, 4, 8, 9]
+Episode [289/2000], Score: 1301, Length: 6, Score avg: -481.6505
+RAND
+Episode [290/2000], Score: -1834, Length: 5, Score avg: -486.3138
+RAND
+Episode [291/2000], Score: -1888, Length: 6, Score avg: -491.1306
+RAND
+Episode [292/2000], Score: -1620, Length: 1, Score avg: -494.9966
+RAND
+Episode [293/2000], Score: -1888, Length: 6, Score avg: -499.7509
+RAND
+Episode [294/2000], Score: -1888, Length: 6, Score avg: -504.4728
+[0, 1, 2, 3, 4, 8, 9]
+Episode [295/2000], Score: 1301, Length: 6, Score avg: -498.3525
+[0, 1, 2, 3, 4, 8, 9]
+Episode [296/2000], Score: 1301, Length: 6, Score avg: -492.2736
+[0, 1, 2, 3, 4, 8, 9]
+Episode [297/2000], Score: 1301, Length: 6, Score avg: -486.2357
+RAND
+RAND
+RAND
+[0, 1, 2, 3, 2, 3, 4, 8, 9]
+Episode [298/2000], Score: 1260, Length: 8, Score avg: -480.3758
+RAND
+Episode [299/2000], Score: -1834, Length: 5, Score avg: -484.9030
+[0, 1, 2, 3, 4, 8, 9]
+Episode [300/2000], Score: 1301, Length: 6, Score avg: -478.9500
+[0, 1, 2, 3, 4, 8, 9]
+Episode [301/2000], Score: 1301, Length: 6, Score avg: -473.0365
+[0, 1, 2, 3, 4, 8, 9]
+Episode [302/2000], Score: 1301, Length: 6, Score avg: -467.1623
+[0, 1, 2, 3, 4, 8, 9]
+Episode [303/2000], Score: 1301, Length: 6, Score avg: -461.3267
+[0, 1, 2, 3, 4, 8, 9]
+Episode [304/2000], Score: 1301, Length: 6, Score avg: -455.5296
+[0, 1, 2, 3, 4, 8, 9]
+Episode [305/2000], Score: 1301, Length: 6, Score avg: -449.7705
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [306/2000], Score: 1301, Length: 6, Score avg: -444.0490
+RAND
+Episode [307/2000], Score: -1695, Length: 2, Score avg: -448.1238
+RAND
+Episode [308/2000], Score: -1777, Length: 4, Score avg: -452.4383
+RAND
+Episode [309/2000], Score: -1758, Length: 3, Score avg: -456.6634
+RAND
+Episode [310/2000], Score: -1834, Length: 5, Score avg: -461.1065
+RAND
+Episode [311/2000], Score: -1888, Length: 6, Score avg: -465.6945
+RAND
+Episode [312/2000], Score: -1777, Length: 4, Score avg: -469.8974
+[0, 1, 2, 3, 4, 8, 9]
+Episode [313/2000], Score: 1301, Length: 6, Score avg: -464.2396
+RAND
+Episode [314/2000], Score: -1620, Length: 1, Score avg: -467.9204
+RAND
+Episode [315/2000], Score: -1620, Length: 1, Score avg: -471.5778
+[0, 1, 2, 3, 4, 8, 9]
+Episode [316/2000], Score: 1301, Length: 6, Score avg: -465.9684
+RAND
+Episode [317/2000], Score: -1758, Length: 3, Score avg: -470.0442
+RAND
+Episode [318/2000], Score: -1620, Length: 1, Score avg: -473.6604
+RAND
+[0, 1, 2, 3, 4, 3, 4, 8, 9]
+Episode [319/2000], Score: 1184, Length: 8, Score avg: -468.4639
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [320/2000], Score: 1301, Length: 6, Score avg: -462.9344
+[0, 1, 2, 3, 4, 8, 9]
+Episode [321/2000], Score: 1301, Length: 6, Score avg: -457.4393
+[0, 1, 2, 3, 4, 8, 9]
+Episode [322/2000], Score: 1301, Length: 6, Score avg: -451.9783
+RAND
+Episode [323/2000], Score: -1620, Length: 1, Score avg: -455.5944
+RAND
+[0, 1, 2, 3, 2, 3, 4, 8, 9]
+Episode [324/2000], Score: 1260, Length: 8, Score avg: -450.2994
+RAND
+Episode [325/2000], Score: -1777, Length: 4, Score avg: -454.3815
+RAND
+Episode [326/2000], Score: -1620, Length: 1, Score avg: -457.9571
+[0, 1, 2, 3, 4, 8, 9]
+Episode [327/2000], Score: 1301, Length: 6, Score avg: -452.5780
+RAND
+Episode [328/2000], Score: -1620, Length: 1, Score avg: -456.1372
+[0, 1, 2, 3, 4, 8, 9]
+Episode [329/2000], Score: 1301, Length: 6, Score avg: -450.7964
+[0, 1, 2, 3, 4, 8, 9]
+Episode [330/2000], Score: 1301, Length: 6, Score avg: -445.4879
+RAND
+Episode [331/2000], Score: -1695, Length: 2, Score avg: -449.2628
+[0, 1, 2, 3, 4, 8, 9]
+Episode [332/2000], Score: 1301, Length: 6, Score avg: -443.9910
+RAND
+Episode [333/2000], Score: -1888, Length: 6, Score avg: -448.3273
+[0, 1, 2, 3, 4, 8, 9]
+Episode [334/2000], Score: 1301, Length: 6, Score avg: -443.0898
+[0, 1, 2, 3, 4, 8, 9]
+Episode [335/2000], Score: 1301, Length: 6, Score avg: -437.8836
+[0, 1, 2, 3, 4, 8, 9]
+Episode [336/2000], Score: 1301, Length: 6, Score avg: -432.7083
+[0, 1, 2, 3, 4, 8, 9]
+Episode [337/2000], Score: 1301, Length: 6, Score avg: -427.5638
+RAND
+Episode [338/2000], Score: -1758, Length: 3, Score avg: -431.5000
+RAND
+Episode [339/2000], Score: -1695, Length: 2, Score avg: -435.2271
+[0, 1, 2, 3, 4, 8, 9]
+Episode [340/2000], Score: 1301, Length: 6, Score avg: -430.1206
+RAND
+Episode [341/2000], Score: -1834, Length: 5, Score avg: -434.2375
+RAND
+Episode [342/2000], Score: -1758, Length: 3, Score avg: -438.1082
+[0, 1, 2, 3, 4, 8, 9]
+Episode [343/2000], Score: 1301, Length: 6, Score avg: -433.0379
+RAND
+Episode [344/2000], Score: -1834, Length: 5, Score avg: -437.1105
+[0, 1, 2, 3, 4, 8, 9]
+Episode [345/2000], Score: 1301, Length: 6, Score avg: -432.0725
+RAND
+Episode [346/2000], Score: -1777, Length: 4, Score avg: -435.9595
+RAND
+Episode [347/2000], Score: -1620, Length: 1, Score avg: -439.3718
+RAND
+RAND
+Episode [348/2000], Score: -1888, Length: 6, Score avg: -443.5345
+[0, 1, 2, 3, 4, 8, 9]
+Episode [349/2000], Score: 1301, Length: 6, Score avg: -438.5358
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [350/2000], Score: 1301, Length: 6, Score avg: -433.5657
+RAND
+Episode [351/2000], Score: -1695, Length: 2, Score avg: -437.1595
+RAND
+[0, 1, 6, 7, 3, 4, 8, 9]
+Episode [352/2000], Score: 1228, Length: 7, Score avg: -432.4290
+RAND
+Episode [353/2000], Score: -1888, Length: 6, Score avg: -436.5524
+[0, 1, 2, 3, 4, 8, 9]
+Episode [354/2000], Score: 1301, Length: 6, Score avg: -431.6441
+RAND
+Episode [355/2000], Score: -1888, Length: 6, Score avg: -435.7465
+[0, 1, 2, 3, 4, 8, 9]
+Episode [356/2000], Score: 1301, Length: 6, Score avg: -430.8680
+[0, 1, 2, 3, 4, 8, 9]
+Episode [357/2000], Score: 1301, Length: 6, Score avg: -426.0168
+[0, 1, 2, 3, 4, 8, 9]
+Episode [358/2000], Score: 1301, Length: 6, Score avg: -421.1927
+RAND
+RAND
+Episode [359/2000], Score: -1850, Length: 5, Score avg: -425.1727
+RAND
+Episode [360/2000], Score: -1888, Length: 6, Score avg: -429.2361
+[0, 1, 2, 3, 4, 8, 9]
+Episode [361/2000], Score: 1301, Length: 6, Score avg: -424.4432
+[0, 1, 2, 3, 4, 8, 9]
+Episode [362/2000], Score: 1301, Length: 6, Score avg: -419.6768
+[0, 1, 2, 3, 4, 8, 9]
+Episode [363/2000], Score: 1301, Length: 6, Score avg: -414.9366
+[0, 1, 2, 3, 4, 8, 9]
+Episode [364/2000], Score: 1301, Length: 6, Score avg: -410.2225
+RAND
+RAND
+[0, 1, 2, 3, 4, 8, 4, 8, 9]
+Episode [365/2000], Score: 1190, Length: 8, Score avg: -405.8384
+RAND
+Episode [366/2000], Score: -1758, Length: 3, Score avg: -409.5328
+RAND
+Episode [367/2000], Score: -1888, Length: 6, Score avg: -413.5613
+[0, 1, 2, 3, 4, 8, 9]
+Episode [368/2000], Score: 1301, Length: 6, Score avg: -408.9022
+[0, 1, 2, 3, 4, 8, 9]
+Episode [369/2000], Score: 1301, Length: 6, Score avg: -404.2683
+RAND
+Episode [370/2000], Score: -1758, Length: 3, Score avg: -407.9270
+[0, 1, 2, 3, 4, 8, 9]
+Episode [371/2000], Score: 1301, Length: 6, Score avg: -403.3208
+RAND
+Episode [372/2000], Score: -1758, Length: 3, Score avg: -406.9624
+RAND
+Episode [373/2000], Score: -1758, Length: 3, Score avg: -410.5845
+RAND
+Episode [374/2000], Score: -1758, Length: 3, Score avg: -414.1872
+RAND
+Episode [375/2000], Score: -1695, Length: 2, Score avg: -417.6027
+RAND
+Episode [376/2000], Score: -1620, Length: 1, Score avg: -420.8005
+[0, 1, 2, 3, 4, 8, 9]
+Episode [377/2000], Score: 1301, Length: 6, Score avg: -416.2334
+[0, 1, 2, 3, 4, 8, 9]
+Episode [378/2000], Score: 1301, Length: 6, Score avg: -411.6905
+RAND
+[0, 1, 0, 1, 2, 3, 4, 8, 9]
+Episode [379/2000], Score: 1148, Length: 8, Score avg: -407.5752
+[0, 1, 2, 3, 4, 8, 9]
+Episode [380/2000], Score: 1301, Length: 6, Score avg: -403.0789
+RAND
+Episode [381/2000], Score: -1758, Length: 3, Score avg: -406.6352
+RAND
+Episode [382/2000], Score: -1758, Length: 3, Score avg: -410.1728
+RAND
+Episode [383/2000], Score: -1620, Length: 1, Score avg: -413.3316
+RAND
+Episode [384/2000], Score: -1888, Length: 6, Score avg: -417.1719
+[0, 1, 2, 3, 4, 8, 9]
+Episode [385/2000], Score: 1301, Length: 6, Score avg: -412.7091
+RAND
+Episode [386/2000], Score: -1888, Length: 6, Score avg: -416.5311
+[0, 1, 2, 3, 4, 8, 9]
+Episode [387/2000], Score: 1301, Length: 6, Score avg: -412.0930
+RAND
+Episode [388/2000], Score: -1620, Length: 1, Score avg: -415.2062
+RAND
+Episode [389/2000], Score: -1777, Length: 4, Score avg: -418.7069
+RAND
+Episode [390/2000], Score: -1695, Length: 2, Score avg: -421.9795
+[0, 1, 2, 3, 4, 8, 9]
+Episode [391/2000], Score: 1301, Length: 6, Score avg: -417.5729
+[0, 1, 2, 3, 4, 8, 9]
+Episode [392/2000], Score: 1301, Length: 6, Score avg: -413.1888
+RAND
+[0, 1, 6, 7, 3, 4, 8, 9]
+Episode [393/2000], Score: 1228, Length: 7, Score avg: -409.0127
+[0, 1, 2, 3, 4, 8, 9]
+Episode [394/2000], Score: 1301, Length: 6, Score avg: -404.6726
+RAND
+Episode [395/2000], Score: -1758, Length: 3, Score avg: -408.0987
+RAND
+Episode [396/2000], Score: -1834, Length: 5, Score avg: -411.6995
+[0, 1, 2, 3, 4, 8, 9]
+Episode [397/2000], Score: 1301, Length: 6, Score avg: -407.3854
+RAND
+Episode [398/2000], Score: -1888, Length: 6, Score avg: -411.1055
+RAND
+[0, 1, 0, 1, 2, 3, 4, 8, 9]
+Episode [399/2000], Score: 1148, Length: 8, Score avg: -407.1980
+[0, 1, 2, 3, 4, 8, 9]
+Episode [400/2000], Score: 1301, Length: 6, Score avg: -402.9275
+RAND
+[0, 1, 0, 1, 2, 3, 4, 8, 9]
+Episode [401/2000], Score: 1148, Length: 8, Score avg: -399.0599
+RAND
+Episode [402/2000], Score: -1620, Length: 1, Score avg: -402.0970
+[0, 1, 2, 3, 4, 8, 9]
+Episode [403/2000], Score: 1301, Length: 6, Score avg: -397.8710
+RAND
+Episode [404/2000], Score: -1777, Length: 4, Score avg: -401.2847
+[0, 1, 2, 3, 4, 8, 9]
+Episode [405/2000], Score: 1301, Length: 6, Score avg: -397.0815
+RAND
+[0, 1, 2, 3, 7, 3, 4, 8, 9]
+Episode [406/2000], Score: 1255, Length: 8, Score avg: -393.0123
+[0, 1, 2, 3, 4, 8, 9]
+Episode [407/2000], Score: 1301, Length: 6, Score avg: -388.8501
+[0, 1, 2, 3, 4, 8, 9]
+Episode [408/2000], Score: 1301, Length: 6, Score avg: -384.7083
+RAND
+Episode [409/2000], Score: -1620, Length: 1, Score avg: -387.7286
+[0, 1, 2, 3, 4, 8, 9]
+Episode [410/2000], Score: 1301, Length: 6, Score avg: -383.6098
+RAND
+Episode [411/2000], Score: -1834, Length: 5, Score avg: -387.1387
+[0, 1, 2, 3, 4, 8, 9]
+Episode [412/2000], Score: 1301, Length: 6, Score avg: -383.0413
+[0, 1, 2, 3, 4, 8, 9]
+Episode [413/2000], Score: 1301, Length: 6, Score avg: -378.9637
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [414/2000], Score: 1301, Length: 6, Score avg: -374.9058
+RAND
+Episode [415/2000], Score: -1888, Length: 6, Score avg: -378.5518
+RAND
+Episode [416/2000], Score: -1758, Length: 3, Score avg: -381.8678
+[0, 1, 2, 3, 4, 8, 9]
+Episode [417/2000], Score: 1301, Length: 6, Score avg: -377.8321
+RAND
+Episode [418/2000], Score: -1620, Length: 1, Score avg: -380.8038
+RAND
+Episode [419/2000], Score: -1888, Length: 6, Score avg: -384.4010
+[0, 1, 2, 3, 4, 8, 9]
+Episode [420/2000], Score: 1301, Length: 6, Score avg: -380.3881
+RAND
+Episode [421/2000], Score: -1620, Length: 1, Score avg: -383.3325
+RAND
+Episode [422/2000], Score: -1758, Length: 3, Score avg: -386.5900
+RAND
+Episode [423/2000], Score: -1888, Length: 6, Score avg: -390.1395
+RAND
+Episode [424/2000], Score: -1758, Length: 3, Score avg: -393.3656
+[0, 1, 2, 3, 4, 8, 9]
+Episode [425/2000], Score: 1301, Length: 6, Score avg: -389.3788
+[0, 1, 2, 3, 4, 8, 9]
+Episode [426/2000], Score: 1301, Length: 6, Score avg: -385.4108
+[0, 1, 2, 3, 4, 8, 9]
+Episode [427/2000], Score: 1301, Length: 6, Score avg: -381.4614
+[0, 1, 2, 3, 4, 8, 9]
+Episode [428/2000], Score: 1301, Length: 6, Score avg: -377.5304
+[0, 1, 2, 3, 4, 8, 9]
+Episode [429/2000], Score: 1301, Length: 6, Score avg: -373.6177
+RAND
+Episode [430/2000], Score: -1758, Length: 3, Score avg: -376.8372
+RAND
+Episode [431/2000], Score: -1620, Length: 1, Score avg: -379.7216
+[0, 1, 2, 3, 4, 8, 9]
+Episode [432/2000], Score: 1301, Length: 6, Score avg: -375.8310
+RAND
+RAND
+Episode [433/2000], Score: -2005, Length: 8, Score avg: -379.5935
+RAND
+Episode [434/2000], Score: -1758, Length: 3, Score avg: -382.7696
+RAND
+Episode [435/2000], Score: -1695, Length: 2, Score avg: -385.7862
+[0, 1, 2, 3, 4, 8, 9]
+Episode [436/2000], Score: 1301, Length: 6, Score avg: -381.9174
+[0, 1, 2, 3, 4, 8, 9]
+Episode [437/2000], Score: 1301, Length: 6, Score avg: -378.0664
+RAND
+Episode [438/2000], Score: -1695, Length: 2, Score avg: -381.0731
+RAND
+Episode [439/2000], Score: -1620, Length: 1, Score avg: -383.8952
+[0, 1, 2, 3, 4, 8, 9]
+Episode [440/2000], Score: 1301, Length: 6, Score avg: -380.0659
+RAND
+Episode [441/2000], Score: -1695, Length: 2, Score avg: -383.0476
+RAND
+Episode [442/2000], Score: -1888, Length: 6, Score avg: -386.4525
+[0, 1, 2, 3, 4, 8, 9]
+Episode [443/2000], Score: 1301, Length: 6, Score avg: -382.6433
+RAND
+Episode [444/2000], Score: -1758, Length: 3, Score avg: -385.7410
+RAND
+Episode [445/2000], Score: -1620, Length: 1, Score avg: -388.5146
+[0, 1, 2, 3, 4, 8, 9]
+Episode [446/2000], Score: 1301, Length: 6, Score avg: -384.7265
+RAND
+Episode [447/2000], Score: -1620, Length: 1, Score avg: -387.4899
+RAND
+Episode [448/2000], Score: -1888, Length: 6, Score avg: -390.8393
+RAND
+Episode [449/2000], Score: -1834, Length: 5, Score avg: -394.0535
+[0, 1, 2, 3, 4, 8, 9]
+Episode [450/2000], Score: 1301, Length: 6, Score avg: -390.2867
+[0, 1, 2, 3, 4, 8, 9]
+Episode [451/2000], Score: 1301, Length: 6, Score avg: -386.5366
+[0, 1, 2, 3, 4, 8, 9]
+Episode [452/2000], Score: 1301, Length: 6, Score avg: -382.8031
+[0, 1, 2, 3, 4, 8, 9]
+Episode [453/2000], Score: 1301, Length: 6, Score avg: -379.0861
+RAND
+RAND
+Episode [454/2000], Score: -1695, Length: 2, Score avg: -381.9846
+[0, 1, 2, 3, 4, 8, 9]
+Episode [455/2000], Score: 1301, Length: 6, Score avg: -378.2857
+[0, 1, 2, 3, 4, 8, 9]
+Episode [456/2000], Score: 1301, Length: 6, Score avg: -374.6031
+RAND
+Episode [457/2000], Score: -1620, Length: 1, Score avg: -377.3282
+[0, 1, 2, 3, 4, 8, 9]
+Episode [458/2000], Score: 1301, Length: 6, Score avg: -373.6638
+RAND
+Episode [459/2000], Score: -1758, Length: 3, Score avg: -376.6797
+[0, 1, 2, 3, 4, 8, 9]
+Episode [460/2000], Score: 1301, Length: 6, Score avg: -373.0326
+RAND
+Episode [461/2000], Score: -1695, Length: 2, Score avg: -375.9002
+[0, 1, 2, 3, 4, 8, 9]
+Episode [462/2000], Score: 1301, Length: 6, Score avg: -372.2706
+[0, 1, 2, 3, 4, 8, 9]
+Episode [463/2000], Score: 1301, Length: 6, Score avg: -368.6566
+[0, 1, 2, 3, 4, 8, 9]
+Episode [464/2000], Score: 1301, Length: 6, Score avg: -365.0582
+RAND
+Episode [465/2000], Score: -1758, Length: 3, Score avg: -368.0538
+RAND
+Episode [466/2000], Score: -1777, Length: 4, Score avg: -371.0773
+[0, 1, 2, 3, 4, 8, 9]
+Episode [467/2000], Score: 1301, Length: 6, Score avg: -367.4968
+[0, 1, 2, 3, 4, 8, 9]
+Episode [468/2000], Score: 1301, Length: 6, Score avg: -363.9316
+[0, 1, 2, 3, 4, 8, 9]
+Episode [469/2000], Score: 1301, Length: 6, Score avg: -360.3817
+[0, 1, 2, 3, 4, 8, 9]
+Episode [470/2000], Score: 1301, Length: 6, Score avg: -356.8468
+RAND
+[0, 1, 2, 3, 2, 3, 4, 8, 9]
+Episode [471/2000], Score: 1260, Length: 8, Score avg: -353.4140
+RAND
+Episode [472/2000], Score: -1758, Length: 3, Score avg: -356.3898
+[0, 1, 2, 3, 4, 8, 9]
+Episode [473/2000], Score: 1301, Length: 6, Score avg: -352.8858
+[0, 1, 2, 3, 4, 8, 9]
+Episode [474/2000], Score: 1301, Length: 6, Score avg: -349.3966
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [475/2000], Score: 1301, Length: 6, Score avg: -345.9221
+[0, 1, 2, 3, 4, 8, 9]
+Episode [476/2000], Score: 1301, Length: 6, Score avg: -342.4622
+RAND
+[0, 1, 2, 3, 4, 8, 9]
+Episode [477/2000], Score: 1301, Length: 6, Score avg: -339.0168
+[0, 1, 2, 3, 4, 8, 9]
+Episode [478/2000], Score: 1301, Length: 6, Score avg: -335.5858
+[0, 1, 2, 3, 4, 8, 9]
+Episode [479/2000], Score: 1301, Length: 6, Score avg: -332.1691
+RAND
+Episode [480/2000], Score: -1620, Length: 1, Score avg: -334.8521
+RAND
+Episode [481/2000], Score: -1695, Length: 2, Score avg: -337.6798
+[0, 1, 2, 3, 4, 8, 9]
+Episode [482/2000], Score: 1301, Length: 6, Score avg: -334.2801
+[0, 1, 2, 3, 4, 8, 9]
+Episode [483/2000], Score: 1301, Length: 6, Score avg: -330.8944
+RAND
+[0, 1, 2, 3, 4, 8, 4, 8, 9]
+Episode [484/2000], Score: 1190, Length: 8, Score avg: -327.7521
+[0, 1, 2, 3, 4, 8, 9]
+Episode [485/2000], Score: 1301, Length: 6, Score avg: -324.3938
+[0, 1, 2, 3, 4, 8, 9]
+Episode [486/2000], Score: 1301, Length: 6, Score avg: -321.0494
+RAND
+Episode [487/2000], Score: -1620, Length: 1, Score avg: -323.7166
+[0, 1, 2, 3, 4, 8, 9]
+Episode [488/2000], Score: 1301, Length: 6, Score avg: -320.3873
+RAND
+Episode [489/2000], Score: -1834, Length: 5, Score avg: -323.4826
+RAND
+Episode [490/2000], Score: -1834, Length: 5, Score avg: -326.5653
+[0, 1, 2, 3, 4, 8, 9]
+Episode [491/2000], Score: 1301, Length: 6, Score avg: -323.2505
+[0, 1, 2, 3, 4, 8, 9]
+Episode [492/2000], Score: 1301, Length: 6, Score avg: -319.9492
+RAND
+Episode [493/2000], Score: -1758, Length: 3, Score avg: -322.8661
+RAND
+Episode [494/2000], Score: -1758, Length: 3, Score avg: -325.7713
+RAND
+Episode [495/2000], Score: -1695, Length: 2, Score avg: -328.5374
+[0, 1, 2, 3, 4, 8, 9]
+Episode [496/2000], Score: 1301, Length: 6, Score avg: -325.2520
+RAND
+Episode [497/2000], Score: -1695, Length: 2, Score avg: -328.0080
+RAND
+Episode [498/2000], Score: -1758, Length: 3, Score avg: -330.8795
+RAND
+Episode [499/2000], Score: -1777, Length: 4, Score avg: -333.7776
+[0, 1, 2, 3, 4, 8, 9]
+Episode [500/2000], Score: 1301, Length: 6, Score avg: -330.5080
+[0, 1, 2, 3, 4, 8, 9]
+Episode [501/2000], Score: 1301, Length: 6, Score avg: -327.2515
+RAND
+Episode [502/2000], Score: -1620, Length: 1, Score avg: -329.8267
+RAND
+Episode [503/2000], Score: -1777, Length: 4, Score avg: -332.7038
+[0, 1, 2, 3, 4, 8, 9]
+Episode [504/2000], Score: 1301, Length: 6, Score avg: -329.4623
+RAND
+Episode [505/2000], Score: -1888, Length: 6, Score avg: -332.5485
+RAND
+Episode [506/2000], Score: -1777, Length: 4, Score avg: -335.4032
+RAND
+Episode [507/2000], Score: -1777, Length: 4, Score avg: -338.2465
+RAND
+Episode [508/2000], Score: -1834, Length: 5, Score avg: -341.1909
+RAND
+Episode [509/2000], Score: -1620, Length: 1, Score avg: -343.7033
+[0, 1, 2, 3, 4, 8, 9]
+Episode [510/2000], Score: 1301, Length: 6, Score avg: -340.4784
+[0, 1, 2, 3, 4, 8, 9]
+Episode [511/2000], Score: 1301, Length: 6, Score avg: -337.2661
+RAND
+Episode [512/2000], Score: -1777, Length: 4, Score avg: -340.0781
+[0, 1, 2, 3, 4, 8, 9]
+Episode [513/2000], Score: 1301, Length: 6, Score avg: -336.8791
+[0, 1, 2, 3, 4, 8, 9]
+Episode [514/2000], Score: 1301, Length: 6, Score avg: -333.6926
+[0, 1, 2, 3, 4, 8, 9]
+Episode [515/2000], Score: 1301, Length: 6, Score avg: -330.5184
+[0, 1, 2, 3, 4, 8, 9]
+Episode [516/2000], Score: 1301, Length: 6, Score avg: -327.3566
+[0, 1, 2, 3, 4, 8, 9]
+Episode [517/2000], Score: 1301, Length: 6, Score avg: -324.2070
+RAND
+Episode [518/2000], Score: -1695, Length: 2, Score avg: -326.8533
+RAND
+Episode [519/2000], Score: -1620, Length: 1, Score avg: -329.3449
+RAND
+Episode [520/2000], Score: -1834, Length: 5, Score avg: -332.2385
+[0, 1, 2, 3, 4, 8, 9]
+Episode [521/2000], Score: 1301, Length: 6, Score avg: -329.1036
+RAND
+Episode [522/2000], Score: -1695, Length: 2, Score avg: -331.7203
+RAND
+Episode [523/2000], Score: -1758, Length: 3, Score avg: -334.4474
+RAND
+Episode [524/2000], Score: -1777, Length: 4, Score avg: -337.2004
+[0, 1, 2, 3, 4, 8, 9]
+Episode [525/2000], Score: 1301, Length: 6, Score avg: -334.0800
+[0, 1, 2, 3, 4, 8, 9]
+Episode [526/2000], Score: 1301, Length: 6, Score avg: -330.9715
+[0, 1, 2, 3, 4, 8, 9]
+Episode [527/2000], Score: 1301, Length: 6, Score avg: -327.8748
+[0, 1, 2, 3, 4, 8, 9]
+Episode [528/2000], Score: 1301, Length: 6, Score avg: -324.7898
+RAND
+Episode [529/2000], Score: -1758, Length: 3, Score avg: -327.4991
+[0, 1, 2, 3, 4, 8, 9]
+Episode [530/2000], Score: 1301, Length: 6, Score avg: -324.4264
+RAND
+[0, 1, 0, 1, 2, 3, 4, 8, 9]
+Episode [531/2000], Score: 1148, Length: 8, Score avg: -321.6535
+RAND
+RAND
+Episode [532/2000], Score: -1987, Length: 7, Score avg: -324.7838
+[0, 1, 2, 3, 4, 8, 9]
+Episode [533/2000], Score: 1301, Length: 6, Score avg: -321.7336
+RAND
+Episode [534/2000], Score: -1834, Length: 5, Score avg: -324.5655
+[0, 1, 2, 3, 4, 8, 9]
+Episode [535/2000], Score: 1301, Length: 6, Score avg: -321.5271
+[0, 1, 2, 3, 4, 8, 9]
+Episode [536/2000], Score: 1301, Length: 6, Score avg: -318.5000
+[0, 1, 2, 3, 4, 8, 9]
+Episode [537/2000], Score: 1301, Length: 6, Score avg: -315.4842
+[0, 1, 2, 3, 4, 8, 9]
+Episode [538/2000], Score: 1301, Length: 6, Score avg: -312.4796
+RAND
+Episode [539/2000], Score: -1888, Length: 6, Score avg: -315.4026
+[0, 1, 2, 3, 4, 8, 9]
+Episode [540/2000], Score: 1301, Length: 6, Score avg: -312.4093
+RAND
+RAND
+Episode [541/2000], Score: -1777, Length: 4, Score avg: -315.1165
+[0, 1, 2, 3, 4, 8, 9]
+Episode [542/2000], Score: 1301, Length: 6, Score avg: -312.1347
+RAND
+Episode [543/2000], Score: -1758, Length: 3, Score avg: -314.7974
+RAND
+Episode [544/2000], Score: -1888, Length: 6, Score avg: -317.6893
+[0, 1, 2, 3, 4, 8, 9]
+Episode [545/2000], Score: 1301, Length: 6, Score avg: -314.7193
+[0, 1, 2, 3, 4, 8, 9]
+Episode [546/2000], Score: 1301, Length: 6, Score avg: -311.7601
+[0, 1, 2, 3, 4, 8, 9]
+Episode [547/2000], Score: 1301, Length: 6, Score avg: -308.8117
+RAND
+Episode [548/2000], Score: -1620, Length: 1, Score avg: -311.2044
+RAND
+Episode [549/2000], Score: -1695, Length: 2, Score avg: -313.7250
+[0, 1, 2, 3, 4, 8, 9]
+Episode [550/2000], Score: 1301, Length: 6, Score avg: -310.7891
+RAND
+RAND
+Episode [551/2000], Score: -1888, Length: 6, Score avg: -313.6515
+RAND
+[0, 5, 0, 1, 2, 3, 4, 8, 9]
+Episode [552/2000], Score: 1151, Length: 8, Score avg: -310.9982
+RAND
+Episode [553/2000], Score: -1695, Length: 2, Score avg: -313.5009
+[0, 1, 2, 3, 4, 8, 9]
+Episode [554/2000], Score: 1301, Length: 6, Score avg: -310.5866
+[0, 1, 2, 3, 4, 8, 9]
+Episode [555/2000], Score: 1301, Length: 6, Score avg: -307.6829
+[0, 1, 2, 3, 4, 8, 9]
+Episode [556/2000], Score: 1301, Length: 6, Score avg: -304.7896
+[0, 1, 2, 3, 4, 8, 9]
+Episode [557/2000], Score: 1301, Length: 6, Score avg: -301.9066
+[0, 1, 2, 3, 4, 8, 9]
+Episode [558/2000], Score: 1301, Length: 6, Score avg: -299.0341
+[0, 1, 2, 3, 4, 8, 9]
+Episode [559/2000], Score: 1301, Length: 6, Score avg: -296.1717
+[0, 1, 2, 3, 4, 8, 9]
+Episode [560/2000], Score: 1301, Length: 6, Score avg: -293.3196
+[0, 1, 2, 3, 4, 8, 9]
+Episode [561/2000], Score: 1301, Length: 6, Score avg: -290.4777
+[0, 1, 2, 3, 4, 8, 9]
+Episode [562/2000], Score: 1301, Length: 6, Score avg: -287.6459
+[0, 1, 2, 3, 4, 8, 9]
+Episode [563/2000], Score: 1301, Length: 6, Score avg: -284.8242
+[0, 1, 2, 3, 4, 8, 9]
+Episode [564/2000], Score: 1301, Length: 6, Score avg: -282.0124
+RAND
+Episode [565/2000], Score: -1777, Length: 4, Score avg: -284.6584
+RAND
+Episode [566/2000], Score: -1758, Length: 3, Score avg: -287.2615
+RAND
+Episode [567/2000], Score: -1620, Length: 1, Score avg: -289.6120
+[0, 1, 2, 3, 4, 8, 9]
+Episode [568/2000], Score: 1301, Length: 6, Score avg: -286.8116
+RAND
+Episode [569/2000], Score: -1834, Length: 5, Score avg: -289.5308
+RAND
+Episode [570/2000], Score: -1620, Length: 1, Score avg: -291.8649
+RAND
+Episode [571/2000], Score: -1758, Length: 3, Score avg: -294.4326
+RAND
+[0, 1, 2, 3, 4, 3, 4, 8, 9]
+Episode [572/2000], Score: 1184, Length: 8, Score avg: -291.8479
+[0, 1, 2, 3, 4, 8, 9]
+Episode [573/2000], Score: 1301, Length: 6, Score avg: -289.0681
+[0, 1, 2, 3, 4, 8, 9]
+Episode [574/2000], Score: 1301, Length: 6, Score avg: -286.2979
+[0, 1, 2, 3, 4, 8, 9]
+Episode [575/2000], Score: 1301, Length: 6, Score avg: -283.5374
+[0, 1, 2, 3, 4, 8, 9]
+Episode [576/2000], Score: 1301, Length: 6, Score avg: -280.7865
+[0, 1, 2, 3, 4, 8, 9]
+Episode [577/2000], Score: 1301, Length: 6, Score avg: -278.0451
+[0, 1, 2, 3, 4, 8, 9]
+Episode [578/2000], Score: 1301, Length: 6, Score avg: -275.3131
+[0, 1, 2, 3, 4, 8, 9]
+Episode [579/2000], Score: 1301, Length: 6, Score avg: -272.5907
+RAND
+Episode [580/2000], Score: -1758, Length: 3, Score avg: -275.1517
+RAND
+Episode [581/2000], Score: -1777, Length: 4, Score avg: -277.7367
+[0, 1, 2, 3, 4, 8, 9]
+Episode [582/2000], Score: 1301, Length: 6, Score avg: -275.0241
+[0, 1, 2, 3, 4, 8, 9]
+Episode [583/2000], Score: 1301, Length: 6, Score avg: -272.3208
+[0, 1, 2, 3, 4, 8, 9]
+Episode [584/2000], Score: 1301, Length: 6, Score avg: -269.6267
+RAND
+Episode [585/2000], Score: -1834, Length: 5, Score avg: -272.3009
+[0, 1, 2, 3, 4, 8, 9]
+Episode [586/2000], Score: 1301, Length: 6, Score avg: -269.6160
+[0, 1, 2, 3, 4, 8, 9]
+Episode [587/2000], Score: 1301, Length: 6, Score avg: -266.9404
+[0, 1, 2, 3, 4, 8, 9]
+Episode [588/2000], Score: 1301, Length: 6, Score avg: -264.2738
+[0, 1, 2, 3, 4, 8, 9]
+Episode [589/2000], Score: 1301, Length: 6, Score avg: -261.6163
+[0, 1, 2, 3, 4, 8, 9]
+Episode [590/2000], Score: 1301, Length: 6, Score avg: -258.9678
+[0, 1, 2, 3, 4, 8, 9]
+Episode [591/2000], Score: 1301, Length: 6, Score avg: -256.3283
+[0, 1, 2, 3, 4, 8, 9]
+Episode [592/2000], Score: 1301, Length: 6, Score avg: -253.6976
+RAND
+RAND
+Episode [593/2000], Score: -1830, Length: 4, Score avg: -256.3558
+RAND
+Episode [594/2000], Score: -1695, Length: 2, Score avg: -258.7778
+RAND
+RAND
+Episode [595/2000], Score: -1908, Length: 5, Score avg: -261.5496
+RAND
+Episode [596/2000], Score: -1620, Length: 1, Score avg: -263.8289
+RAND
+Episode [597/2000], Score: -1758, Length: 3, Score avg: -266.3317
+[0, 1, 2, 3, 4, 8, 9]
+Episode [598/2000], Score: 1301, Length: 6, Score avg: -263.7107
+[0, 1, 2, 3, 4, 8, 9]
+Episode [599/2000], Score: 1301, Length: 6, Score avg: -261.0985
+RAND
+Episode [600/2000], Score: -1620, Length: 1, Score avg: -263.3633
+[0, 1, 2, 3, 4, 8, 9]
+Episode [601/2000], Score: 1301, Length: 6, Score avg: -260.7604
+[0, 1, 2, 3, 4, 8, 9]
+Episode [602/2000], Score: 1301, Length: 6, Score avg: -258.1661
+[0, 1, 2, 3, 4, 8, 9]
+Episode [603/2000], Score: 1301, Length: 6, Score avg: -255.5804
+[0, 1, 2, 3, 4, 8, 9]
+Episode [604/2000], Score: 1301, Length: 6, Score avg: -253.0033
+[0, 1, 2, 3, 4, 8, 9]
+Episode [605/2000], Score: 1301, Length: 6, Score avg: -250.4347
+[0, 1, 2, 3, 4, 8, 9]
+Episode [606/2000], Score: 1301, Length: 6, Score avg: -247.8746
+[0, 1, 2, 3, 4, 8, 9]
+Episode [607/2000], Score: 1301, Length: 6, Score avg: -245.3229
+[0, 1, 2, 3, 4, 8, 9]
+Episode [608/2000], Score: 1301, Length: 6, Score avg: -242.7796
+[0, 1, 2, 3, 4, 8, 9]
+Episode [609/2000], Score: 1301, Length: 6, Score avg: -240.2447
+[0, 1, 2, 3, 4, 8, 9]
+Episode [610/2000], Score: 1301, Length: 6, Score avg: -237.7180
+[0, 1, 2, 3, 4, 8, 9]
+Episode [611/2000], Score: 1301, Length: 6, Score avg: -235.1997
+[0, 1, 2, 3, 4, 8, 9]
+Episode [612/2000], Score: 1301, Length: 6, Score avg: -232.6895
+[0, 1, 2, 3, 4, 8, 9]
+Episode [613/2000], Score: 1301, Length: 6, Score avg: -230.1876
+[0, 1, 2, 3, 4, 8, 9]
+Episode [614/2000], Score: 1301, Length: 6, Score avg: -227.6938
+[0, 1, 2, 3, 4, 8, 9]
+Episode [615/2000], Score: 1301, Length: 6, Score avg: -225.2081
+[0, 1, 2, 3, 4, 8, 9]
+Episode [616/2000], Score: 1301, Length: 6, Score avg: -222.7305
+[0, 1, 2, 3, 4, 8, 9]
+Episode [617/2000], Score: 1301, Length: 6, Score avg: -220.2609
+[0, 1, 2, 3, 4, 8, 9]
+Episode [618/2000], Score: 1301, Length: 6, Score avg: -217.7994
+[0, 1, 2, 3, 4, 8, 9]
+Episode [619/2000], Score: 1301, Length: 6, Score avg: -215.3457
+[0, 1, 2, 3, 4, 8, 9]
+Episode [620/2000], Score: 1301, Length: 6, Score avg: -212.9000
+[0, 1, 2, 3, 4, 8, 9]
+Episode [621/2000], Score: 1301, Length: 6, Score avg: -210.4622
+[0, 1, 2, 3, 4, 8, 9]
+Episode [622/2000], Score: 1301, Length: 6, Score avg: -208.0322
+[0, 1, 2, 3, 4, 8, 9]
+Episode [623/2000], Score: 1301, Length: 6, Score avg: -205.6100
+[0, 1, 2, 3, 4, 8, 9]
+Episode [624/2000], Score: 1301, Length: 6, Score avg: -203.1955
+[0, 1, 2, 3, 4, 8, 9]
+Episode [625/2000], Score: 1301, Length: 6, Score avg: -200.7888
+[0, 1, 2, 3, 4, 8, 9]
+Episode [626/2000], Score: 1301, Length: 6, Score avg: -198.3898
+[0, 1, 2, 3, 4, 8, 9]
+Episode [627/2000], Score: 1301, Length: 6, Score avg: -195.9984
+[0, 1, 2, 3, 4, 8, 9]
+Episode [628/2000], Score: 1301, Length: 6, Score avg: -193.6146
+[0, 1, 2, 3, 4, 8, 9]
+Episode [629/2000], Score: 1301, Length: 6, Score avg: -191.2385
+[0, 1, 2, 3, 4, 8, 9]
+Episode [630/2000], Score: 1301, Length: 6, Score avg: -188.8698
+[0, 1, 2, 3, 4, 8, 9]
+Episode [631/2000], Score: 1301, Length: 6, Score avg: -186.5087
+[0, 1, 2, 3, 4, 8, 9]
+Episode [632/2000], Score: 1301, Length: 6, Score avg: -184.1551
+[0, 1, 2, 3, 4, 8, 9]
+Episode [633/2000], Score: 1301, Length: 6, Score avg: -181.8088
+[0, 1, 2, 3, 4, 8, 9]
+Episode [634/2000], Score: 1301, Length: 6, Score avg: -179.4700
+[0, 1, 2, 3, 4, 8, 9]
+Episode [635/2000], Score: 1301, Length: 6, Score avg: -177.1386
+[0, 1, 2, 3, 4, 8, 9]
+Episode [636/2000], Score: 1301, Length: 6, Score avg: -174.8145
+[0, 1, 2, 3, 4, 8, 9]
+Episode [637/2000], Score: 1301, Length: 6, Score avg: -172.4976
+[0, 1, 2, 3, 4, 8, 9]
+Episode [638/2000], Score: 1301, Length: 6, Score avg: -170.1881
+[0, 1, 2, 3, 4, 8, 9]
+Episode [639/2000], Score: 1301, Length: 6, Score avg: -167.8858
+[0, 1, 2, 3, 4, 8, 9]
+Episode [640/2000], Score: 1301, Length: 6, Score avg: -165.5906
+[0, 1, 2, 3, 4, 8, 9]
+Episode [641/2000], Score: 1301, Length: 6, Score avg: -163.3027
+[0, 1, 2, 3, 4, 8, 9]
+Episode [642/2000], Score: 1301, Length: 6, Score avg: -161.0218
+[0, 1, 2, 3, 4, 8, 9]
+Episode [643/2000], Score: 1301, Length: 6, Score avg: -158.7481
+[0, 1, 2, 3, 4, 8, 9]
+Episode [644/2000], Score: 1301, Length: 6, Score avg: -156.4814
+[0, 1, 2, 3, 4, 8, 9]
+Episode [645/2000], Score: 1301, Length: 6, Score avg: -154.2217
+[0, 1, 2, 3, 4, 8, 9]
+Episode [646/2000], Score: 1301, Length: 6, Score avg: -151.9690
+[0, 1, 2, 3, 4, 8, 9]
+Episode [647/2000], Score: 1301, Length: 6, Score avg: -149.7233
+[0, 1, 2, 3, 4, 8, 9]
+Episode [648/2000], Score: 1301, Length: 6, Score avg: -147.4846
+[0, 1, 2, 3, 4, 8, 9]
+Episode [649/2000], Score: 1301, Length: 6, Score avg: -145.2527
+[0, 1, 2, 3, 4, 8, 9]
+Episode [650/2000], Score: 1301, Length: 6, Score avg: -143.0277
+[0, 1, 2, 3, 4, 8, 9]
+Episode [651/2000], Score: 1301, Length: 6, Score avg: -140.8095
+[0, 1, 2, 3, 4, 8, 9]
+Episode [652/2000], Score: 1301, Length: 6, Score avg: -138.5982
+[0, 1, 2, 3, 4, 8, 9]
+Episode [653/2000], Score: 1301, Length: 6, Score avg: -136.3936
+[0, 1, 2, 3, 4, 8, 9]
+Episode [654/2000], Score: 1301, Length: 6, Score avg: -134.1957
+[0, 1, 2, 3, 4, 8, 9]
+Episode [655/2000], Score: 1301, Length: 6, Score avg: -132.0046
+[0, 1, 2, 3, 4, 8, 9]
+Episode [656/2000], Score: 1301, Length: 6, Score avg: -129.8201
+[0, 1, 2, 3, 4, 8, 9]
+Episode [657/2000], Score: 1301, Length: 6, Score avg: -127.6423
+[0, 1, 2, 3, 4, 8, 9]
+Episode [658/2000], Score: 1301, Length: 6, Score avg: -125.4711
+[0, 1, 2, 3, 4, 8, 9]
+Episode [659/2000], Score: 1301, Length: 6, Score avg: -123.3065
+[0, 1, 2, 3, 4, 8, 9]
+Episode [660/2000], Score: 1301, Length: 6, Score avg: -121.1485
+[0, 1, 2, 3, 4, 8, 9]
+Episode [661/2000], Score: 1301, Length: 6, Score avg: -118.9970
+[0, 1, 2, 3, 4, 8, 9]
+Episode [662/2000], Score: 1301, Length: 6, Score avg: -116.8520
+[0, 1, 2, 3, 4, 8, 9]
+Episode [663/2000], Score: 1301, Length: 6, Score avg: -114.7134
+[0, 1, 2, 3, 4, 8, 9]
+Episode [664/2000], Score: 1301, Length: 6, Score avg: -112.5813
+[0, 1, 2, 3, 4, 8, 9]
+Episode [665/2000], Score: 1301, Length: 6, Score avg: -110.4556
+[0, 1, 2, 3, 4, 8, 9]
+Episode [666/2000], Score: 1301, Length: 6, Score avg: -108.3363
+[0, 1, 2, 3, 4, 8, 9]
+Episode [667/2000], Score: 1301, Length: 6, Score avg: -106.2234
+[0, 1, 2, 3, 4, 8, 9]
+Episode [668/2000], Score: 1301, Length: 6, Score avg: -104.1168
+[0, 1, 2, 3, 4, 8, 9]
+Episode [669/2000], Score: 1301, Length: 6, Score avg: -102.0164
+[0, 1, 2, 3, 4, 8, 9]
+Episode [670/2000], Score: 1301, Length: 6, Score avg: -99.9224
+[0, 1, 2, 3, 4, 8, 9]
+Episode [671/2000], Score: 1301, Length: 6, Score avg: -97.8346
+[0, 1, 2, 3, 4, 8, 9]
+Episode [672/2000], Score: 1301, Length: 6, Score avg: -95.7530
+[0, 1, 2, 3, 4, 8, 9]
+Episode [673/2000], Score: 1301, Length: 6, Score avg: -93.6776
+[0, 1, 2, 3, 4, 8, 9]
+Episode [674/2000], Score: 1301, Length: 6, Score avg: -91.6083
+[0, 1, 2, 3, 4, 8, 9]
+Episode [675/2000], Score: 1301, Length: 6, Score avg: -89.5452
+[0, 1, 2, 3, 4, 8, 9]
+Episode [676/2000], Score: 1301, Length: 6, Score avg: -87.4882
+[0, 1, 2, 3, 4, 8, 9]
+Episode [677/2000], Score: 1301, Length: 6, Score avg: -85.4372
+[0, 1, 2, 3, 4, 8, 9]
+Episode [678/2000], Score: 1301, Length: 6, Score avg: -83.3923
+[0, 1, 2, 3, 4, 8, 9]
+Episode [679/2000], Score: 1301, Length: 6, Score avg: -81.3535
+[0, 1, 2, 3, 4, 8, 9]
+Episode [680/2000], Score: 1301, Length: 6, Score avg: -79.3206
+[0, 1, 2, 3, 4, 8, 9]
+Episode [681/2000], Score: 1301, Length: 6, Score avg: -77.2937
+[0, 1, 2, 3, 4, 8, 9]
+Episode [682/2000], Score: 1301, Length: 6, Score avg: -75.2727
+[0, 1, 2, 3, 4, 8, 9]
+Episode [683/2000], Score: 1301, Length: 6, Score avg: -73.2577
+[0, 1, 2, 3, 4, 8, 9]
+Episode [684/2000], Score: 1301, Length: 6, Score avg: -71.2485
+[0, 1, 2, 3, 4, 8, 9]
+Episode [685/2000], Score: 1301, Length: 6, Score avg: -69.2453
+[0, 1, 2, 3, 4, 8, 9]
+Episode [686/2000], Score: 1301, Length: 6, Score avg: -67.2478
+[0, 1, 2, 3, 4, 8, 9]
+Episode [687/2000], Score: 1301, Length: 6, Score avg: -65.2562
+[0, 1, 2, 3, 4, 8, 9]
+Episode [688/2000], Score: 1301, Length: 6, Score avg: -63.2703
+[0, 1, 2, 3, 4, 8, 9]
+Episode [689/2000], Score: 1301, Length: 6, Score avg: -61.2903
+[0, 1, 2, 3, 4, 8, 9]
+Episode [690/2000], Score: 1301, Length: 6, Score avg: -59.3159
+[0, 1, 2, 3, 4, 8, 9]
+Episode [691/2000], Score: 1301, Length: 6, Score avg: -57.3473
+[0, 1, 2, 3, 4, 8, 9]
+Episode [692/2000], Score: 1301, Length: 6, Score avg: -55.3844
+[0, 1, 2, 3, 4, 8, 9]
+Episode [693/2000], Score: 1301, Length: 6, Score avg: -53.4271
+[0, 1, 2, 3, 4, 8, 9]
+Episode [694/2000], Score: 1301, Length: 6, Score avg: -51.4755
+[0, 1, 2, 3, 4, 8, 9]
+Episode [695/2000], Score: 1301, Length: 6, Score avg: -49.5295
+[0, 1, 2, 3, 4, 8, 9]
+Episode [696/2000], Score: 1301, Length: 6, Score avg: -47.5891
+[0, 1, 2, 3, 4, 8, 9]
+Episode [697/2000], Score: 1301, Length: 6, Score avg: -45.6542
+[0, 1, 2, 3, 4, 8, 9]
+Episode [698/2000], Score: 1301, Length: 6, Score avg: -43.7249
+[0, 1, 2, 3, 4, 8, 9]
+Episode [699/2000], Score: 1301, Length: 6, Score avg: -41.8011
+[0, 1, 2, 3, 4, 8, 9]
+Episode [700/2000], Score: 1301, Length: 6, Score avg: -39.8829
+[0, 1, 2, 3, 4, 8, 9]
+Episode [701/2000], Score: 1301, Length: 6, Score avg: -37.9700
+[0, 1, 2, 3, 4, 8, 9]
+Episode [702/2000], Score: 1301, Length: 6, Score avg: -36.0627
+[0, 1, 2, 3, 4, 8, 9]
+Episode [703/2000], Score: 1301, Length: 6, Score avg: -34.1607
+[0, 1, 2, 3, 4, 8, 9]
+Episode [704/2000], Score: 1301, Length: 6, Score avg: -32.2642
+[0, 1, 2, 3, 4, 8, 9]
+Episode [705/2000], Score: 1301, Length: 6, Score avg: -30.3730
+[0, 1, 2, 3, 4, 8, 9]
+Episode [706/2000], Score: 1301, Length: 6, Score avg: -28.4873
+[0, 1, 2, 3, 4, 8, 9]
+Episode [707/2000], Score: 1301, Length: 6, Score avg: -26.6068
+[0, 1, 2, 3, 4, 8, 9]
+Episode [708/2000], Score: 1301, Length: 6, Score avg: -24.7316
+[0, 1, 2, 3, 4, 8, 9]
+Episode [709/2000], Score: 1301, Length: 6, Score avg: -22.8618
+[0, 1, 2, 3, 4, 8, 9]
+Episode [710/2000], Score: 1301, Length: 6, Score avg: -20.9972
+[0, 1, 2, 3, 4, 8, 9]
+Episode [711/2000], Score: 1301, Length: 6, Score avg: -19.1378
+[0, 1, 2, 3, 4, 8, 9]
+Episode [712/2000], Score: 1301, Length: 6, Score avg: -17.2837
+[0, 1, 2, 3, 4, 8, 9]
+Episode [713/2000], Score: 1301, Length: 6, Score avg: -15.4348
+[0, 1, 2, 3, 4, 8, 9]
+Episode [714/2000], Score: 1301, Length: 6, Score avg: -13.5910
+[0, 1, 2, 3, 4, 8, 9]
+Episode [715/2000], Score: 1301, Length: 6, Score avg: -11.7524
+[0, 1, 2, 3, 4, 8, 9]
+Episode [716/2000], Score: 1301, Length: 6, Score avg: -9.9190
+[0, 1, 2, 3, 4, 8, 9]
+Episode [717/2000], Score: 1301, Length: 6, Score avg: -8.0907
+[0, 1, 2, 3, 4, 8, 9]
+Episode [718/2000], Score: 1301, Length: 6, Score avg: -6.2674
+[0, 1, 2, 3, 4, 8, 9]
+Episode [719/2000], Score: 1301, Length: 6, Score avg: -4.4492
+[0, 1, 2, 3, 4, 8, 9]
+Episode [720/2000], Score: 1301, Length: 6, Score avg: -2.6361
+[0, 1, 2, 3, 4, 8, 9]
+Episode [721/2000], Score: 1301, Length: 6, Score avg: -0.8280
+[0, 1, 2, 3, 4, 8, 9]
+Episode [722/2000], Score: 1301, Length: 6, Score avg: 0.9751
+[0, 1, 2, 3, 4, 8, 9]
+Episode [723/2000], Score: 1301, Length: 6, Score avg: 2.7732
+[0, 1, 2, 3, 4, 8, 9]
+Episode [724/2000], Score: 1301, Length: 6, Score avg: 4.5663
+[0, 1, 2, 3, 4, 8, 9]
+Episode [725/2000], Score: 1301, Length: 6, Score avg: 6.3545
+[0, 1, 2, 3, 4, 8, 9]
+Episode [726/2000], Score: 1301, Length: 6, Score avg: 8.1377
+[0, 1, 2, 3, 4, 8, 9]
+Episode [727/2000], Score: 1301, Length: 6, Score avg: 9.9161
+[0, 1, 2, 3, 4, 8, 9]
+Episode [728/2000], Score: 1301, Length: 6, Score avg: 11.6896
+[0, 1, 2, 3, 4, 8, 9]
+Episode [729/2000], Score: 1301, Length: 6, Score avg: 13.4582
+[0, 1, 2, 3, 4, 8, 9]
+Episode [730/2000], Score: 1301, Length: 6, Score avg: 15.2219
+[0, 1, 2, 3, 4, 8, 9]
+Episode [731/2000], Score: 1301, Length: 6, Score avg: 16.9808
+[0, 1, 2, 3, 4, 8, 9]
+Episode [732/2000], Score: 1301, Length: 6, Score avg: 18.7350
+[0, 1, 2, 3, 4, 8, 9]
+Episode [733/2000], Score: 1301, Length: 6, Score avg: 20.4843
+[0, 1, 2, 3, 4, 8, 9]
+Episode [734/2000], Score: 1301, Length: 6, Score avg: 22.2289
+[0, 1, 2, 3, 4, 8, 9]
+Episode [735/2000], Score: 1301, Length: 6, Score avg: 23.9687
+[0, 1, 2, 3, 4, 8, 9]
+Episode [736/2000], Score: 1301, Length: 6, Score avg: 25.7038
+[0, 1, 2, 3, 4, 8, 9]
+Episode [737/2000], Score: 1301, Length: 6, Score avg: 27.4342
+[0, 1, 2, 3, 4, 8, 9]
+Episode [738/2000], Score: 1301, Length: 6, Score avg: 29.1599
+[0, 1, 2, 3, 4, 8, 9]
+Episode [739/2000], Score: 1301, Length: 6, Score avg: 30.8809
+[0, 1, 2, 3, 4, 8, 9]
+Episode [740/2000], Score: 1301, Length: 6, Score avg: 32.5973
+[0, 1, 2, 3, 4, 8, 9]
+Episode [741/2000], Score: 1301, Length: 6, Score avg: 34.3090
+[0, 1, 2, 3, 4, 8, 9]
+Episode [742/2000], Score: 1301, Length: 6, Score avg: 36.0162
+[0, 1, 2, 3, 4, 8, 9]
+Episode [743/2000], Score: 1301, Length: 6, Score avg: 37.7187
+[0, 1, 2, 3, 4, 8, 9]
+Episode [744/2000], Score: 1301, Length: 6, Score avg: 39.4167
+[0, 1, 2, 3, 4, 8, 9]
+Episode [745/2000], Score: 1301, Length: 6, Score avg: 41.1101
+[0, 1, 2, 3, 4, 8, 9]
+Episode [746/2000], Score: 1301, Length: 6, Score avg: 42.7989
+[0, 1, 2, 3, 4, 8, 9]
+Episode [747/2000], Score: 1301, Length: 6, Score avg: 44.4833
+[0, 1, 2, 3, 4, 8, 9]
+Episode [748/2000], Score: 1301, Length: 6, Score avg: 46.1631
+[0, 1, 2, 3, 4, 8, 9]
+Episode [749/2000], Score: 1301, Length: 6, Score avg: 47.8385
+[0, 1, 2, 3, 4, 8, 9]
+Episode [750/2000], Score: 1301, Length: 6, Score avg: 49.5093
+[0, 1, 2, 3, 4, 8, 9]
+Episode [751/2000], Score: 1301, Length: 6, Score avg: 51.1758
+[0, 1, 2, 3, 4, 8, 9]
+Episode [752/2000], Score: 1301, Length: 6, Score avg: 52.8378
+[0, 1, 2, 3, 4, 8, 9]
+Episode [753/2000], Score: 1301, Length: 6, Score avg: 54.4954
+[0, 1, 2, 3, 4, 8, 9]
+Episode [754/2000], Score: 1301, Length: 6, Score avg: 56.1485
+[0, 1, 2, 3, 4, 8, 9]
+Episode [755/2000], Score: 1301, Length: 6, Score avg: 57.7974
+[0, 1, 2, 3, 4, 8, 9]
+Episode [756/2000], Score: 1301, Length: 6, Score avg: 59.4418
+[0, 1, 2, 3, 4, 8, 9]
+Episode [757/2000], Score: 1301, Length: 6, Score avg: 61.0819
+[0, 1, 2, 3, 4, 8, 9]
+Episode [758/2000], Score: 1301, Length: 6, Score avg: 62.7177
+[0, 1, 2, 3, 4, 8, 9]
+Episode [759/2000], Score: 1301, Length: 6, Score avg: 64.3491
+[0, 1, 2, 3, 4, 8, 9]
+Episode [760/2000], Score: 1301, Length: 6, Score avg: 65.9763
+[0, 1, 2, 3, 4, 8, 9]
+Episode [761/2000], Score: 1301, Length: 6, Score avg: 67.5992
+[0, 1, 2, 3, 4, 8, 9]
+Episode [762/2000], Score: 1301, Length: 6, Score avg: 69.2178
+[0, 1, 2, 3, 4, 8, 9]
+Episode [763/2000], Score: 1301, Length: 6, Score avg: 70.8322
+[0, 1, 2, 3, 4, 8, 9]
+Episode [764/2000], Score: 1301, Length: 6, Score avg: 72.4424
+[0, 1, 2, 3, 4, 8, 9]
+Episode [765/2000], Score: 1301, Length: 6, Score avg: 74.0484
+[0, 1, 2, 3, 4, 8, 9]
+Episode [766/2000], Score: 1301, Length: 6, Score avg: 75.6501
+[0, 1, 2, 3, 4, 8, 9]
+Episode [767/2000], Score: 1301, Length: 6, Score avg: 77.2477
+[0, 1, 2, 3, 4, 8, 9]
+Episode [768/2000], Score: 1301, Length: 6, Score avg: 78.8411
+[0, 1, 2, 3, 4, 8, 9]
+Episode [769/2000], Score: 1301, Length: 6, Score avg: 80.4304
+[0, 1, 2, 3, 4, 8, 9]
+Episode [770/2000], Score: 1301, Length: 6, Score avg: 82.0156
+[0, 1, 2, 3, 4, 8, 9]
+Episode [771/2000], Score: 1301, Length: 6, Score avg: 83.5966
+[0, 1, 2, 3, 4, 8, 9]
+Episode [772/2000], Score: 1301, Length: 6, Score avg: 85.1736
+[0, 1, 2, 3, 4, 8, 9]
+Episode [773/2000], Score: 1301, Length: 6, Score avg: 86.7464
+[0, 1, 2, 3, 4, 8, 9]
+Episode [774/2000], Score: 1301, Length: 6, Score avg: 88.3152
+[0, 1, 2, 3, 4, 8, 9]
+Episode [775/2000], Score: 1301, Length: 6, Score avg: 89.8800
+[0, 1, 2, 3, 4, 8, 9]
+Episode [776/2000], Score: 1301, Length: 6, Score avg: 91.4407
+[0, 1, 2, 3, 4, 8, 9]
+Episode [777/2000], Score: 1301, Length: 6, Score avg: 92.9974
+[0, 1, 2, 3, 4, 8, 9]
+Episode [778/2000], Score: 1301, Length: 6, Score avg: 94.5501
+[0, 1, 2, 3, 4, 8, 9]
+Episode [779/2000], Score: 1301, Length: 6, Score avg: 96.0988
+[0, 1, 2, 3, 4, 8, 9]
+Episode [780/2000], Score: 1301, Length: 6, Score avg: 97.6436
+[0, 1, 2, 3, 4, 8, 9]
+Episode [781/2000], Score: 1301, Length: 6, Score avg: 99.1844
+[0, 1, 2, 3, 4, 8, 9]
+Episode [782/2000], Score: 1301, Length: 6, Score avg: 100.7212
+[0, 1, 2, 3, 4, 8, 9]
+Episode [783/2000], Score: 1301, Length: 6, Score avg: 102.2542
+[0, 1, 2, 3, 4, 8, 9]
+Episode [784/2000], Score: 1301, Length: 6, Score avg: 103.7832
+[0, 1, 2, 3, 4, 8, 9]
+Episode [785/2000], Score: 1301, Length: 6, Score avg: 105.3083
+[0, 1, 2, 3, 4, 8, 9]
+Episode [786/2000], Score: 1301, Length: 6, Score avg: 106.8295
+[0, 1, 2, 3, 4, 8, 9]
+Episode [787/2000], Score: 1301, Length: 6, Score avg: 108.3469
+[0, 1, 2, 3, 4, 8, 9]
+Episode [788/2000], Score: 1301, Length: 6, Score avg: 109.8604
+[0, 1, 2, 3, 4, 8, 9]
+Episode [789/2000], Score: 1301, Length: 6, Score avg: 111.3701
+[0, 1, 2, 3, 4, 8, 9]
+Episode [790/2000], Score: 1301, Length: 6, Score avg: 112.8759
+[0, 1, 2, 3, 4, 8, 9]
+Episode [791/2000], Score: 1301, Length: 6, Score avg: 114.3780
+[0, 1, 2, 3, 4, 8, 9]
+Episode [792/2000], Score: 1301, Length: 6, Score avg: 115.8763
+[0, 1, 2, 3, 4, 8, 9]
+Episode [793/2000], Score: 1301, Length: 6, Score avg: 117.3707
+[0, 1, 2, 3, 4, 8, 9]
+Episode [794/2000], Score: 1301, Length: 6, Score avg: 118.8615
+[0, 1, 2, 3, 4, 8, 9]
+Episode [795/2000], Score: 1301, Length: 6, Score avg: 120.3484
+[0, 1, 2, 3, 4, 8, 9]
+Episode [796/2000], Score: 1301, Length: 6, Score avg: 121.8317
+[0, 1, 2, 3, 4, 8, 9]
+Episode [797/2000], Score: 1301, Length: 6, Score avg: 123.3112
+[0, 1, 2, 3, 4, 8, 9]
+Episode [798/2000], Score: 1301, Length: 6, Score avg: 124.7870
+[0, 1, 2, 3, 4, 8, 9]
+Episode [799/2000], Score: 1301, Length: 6, Score avg: 126.2591
+[0, 1, 2, 3, 4, 8, 9]
+Episode [800/2000], Score: 1301, Length: 6, Score avg: 127.7275
+[0, 1, 2, 3, 4, 8, 9]
+Episode [801/2000], Score: 1301, Length: 6, Score avg: 129.1923
+[0, 1, 2, 3, 4, 8, 9]
+Episode [802/2000], Score: 1301, Length: 6, Score avg: 130.6534
+[0, 1, 2, 3, 4, 8, 9]
+Episode [803/2000], Score: 1301, Length: 6, Score avg: 132.1108
+[0, 1, 2, 3, 4, 8, 9]
+Episode [804/2000], Score: 1301, Length: 6, Score avg: 133.5647
+[0, 1, 2, 3, 4, 8, 9]
+Episode [805/2000], Score: 1301, Length: 6, Score avg: 135.0149
+[0, 1, 2, 3, 4, 8, 9]
+Episode [806/2000], Score: 1301, Length: 6, Score avg: 136.4615
+[0, 1, 2, 3, 4, 8, 9]
+Episode [807/2000], Score: 1301, Length: 6, Score avg: 137.9046
+[0, 1, 2, 3, 4, 8, 9]
+Episode [808/2000], Score: 1301, Length: 6, Score avg: 139.3441
+[0, 1, 2, 3, 4, 8, 9]
+Episode [809/2000], Score: 1301, Length: 6, Score avg: 140.7800
+[0, 1, 2, 3, 4, 8, 9]
+Episode [810/2000], Score: 1301, Length: 6, Score avg: 142.2123
+[0, 1, 2, 3, 4, 8, 9]
+Episode [811/2000], Score: 1301, Length: 6, Score avg: 143.6412
+[0, 1, 2, 3, 4, 8, 9]
+Episode [812/2000], Score: 1301, Length: 6, Score avg: 145.0665
+[0, 1, 2, 3, 4, 8, 9]
+Episode [813/2000], Score: 1301, Length: 6, Score avg: 146.4883
+[0, 1, 2, 3, 4, 8, 9]
+Episode [814/2000], Score: 1301, Length: 6, Score avg: 147.9066
+[0, 1, 2, 3, 4, 8, 9]
+Episode [815/2000], Score: 1301, Length: 6, Score avg: 149.3215
+[0, 1, 2, 3, 4, 8, 9]
+Episode [816/2000], Score: 1301, Length: 6, Score avg: 150.7328
+[0, 1, 2, 3, 4, 8, 9]
+Episode [817/2000], Score: 1301, Length: 6, Score avg: 152.1408
+[0, 1, 2, 3, 4, 8, 9]
+Episode [818/2000], Score: 1301, Length: 6, Score avg: 153.5452
+[0, 1, 2, 3, 4, 8, 9]
+Episode [819/2000], Score: 1301, Length: 6, Score avg: 154.9463
+[0, 1, 2, 3, 4, 8, 9]
+Episode [820/2000], Score: 1301, Length: 6, Score avg: 156.3439
+[0, 1, 2, 3, 4, 8, 9]
+Episode [821/2000], Score: 1301, Length: 6, Score avg: 157.7381
+[0, 1, 2, 3, 4, 8, 9]
+Episode [822/2000], Score: 1301, Length: 6, Score avg: 159.1290
+[0, 1, 2, 3, 4, 8, 9]
+Episode [823/2000], Score: 1301, Length: 6, Score avg: 160.5164
+[0, 1, 2, 3, 4, 8, 9]
+Episode [824/2000], Score: 1301, Length: 6, Score avg: 161.9005
+[0, 1, 2, 3, 4, 8, 9]
+Episode [825/2000], Score: 1301, Length: 6, Score avg: 163.2812
+[0, 1, 2, 3, 4, 8, 9]
+Episode [826/2000], Score: 1301, Length: 6, Score avg: 164.6586
+[0, 1, 2, 3, 4, 8, 9]
+Episode [827/2000], Score: 1301, Length: 6, Score avg: 166.0326
+[0, 1, 2, 3, 4, 8, 9]
+Episode [828/2000], Score: 1301, Length: 6, Score avg: 167.4034
+[0, 1, 2, 3, 4, 8, 9]
+Episode [829/2000], Score: 1301, Length: 6, Score avg: 168.7708
+[0, 1, 2, 3, 4, 8, 9]
+Episode [830/2000], Score: 1301, Length: 6, Score avg: 170.1349
+[0, 1, 2, 3, 4, 8, 9]
+Episode [831/2000], Score: 1301, Length: 6, Score avg: 171.4958
+[0, 1, 2, 3, 4, 8, 9]
+Episode [832/2000], Score: 1301, Length: 6, Score avg: 172.8534
+[0, 1, 2, 3, 4, 8, 9]
+Episode [833/2000], Score: 1301, Length: 6, Score avg: 174.2077
+[0, 1, 2, 3, 4, 8, 9]
+Episode [834/2000], Score: 1301, Length: 6, Score avg: 175.5588
+[0, 1, 2, 3, 4, 8, 9]
+Episode [835/2000], Score: 1301, Length: 6, Score avg: 176.9066
+[0, 1, 2, 3, 4, 8, 9]
+Episode [836/2000], Score: 1301, Length: 6, Score avg: 178.2512
+[0, 1, 2, 3, 4, 8, 9]
+Episode [837/2000], Score: 1301, Length: 6, Score avg: 179.5926
+[0, 1, 2, 3, 4, 8, 9]
+Episode [838/2000], Score: 1301, Length: 6, Score avg: 180.9308
+[0, 1, 2, 3, 4, 8, 9]
+Episode [839/2000], Score: 1301, Length: 6, Score avg: 182.2658
+[0, 1, 2, 3, 4, 8, 9]
+Episode [840/2000], Score: 1301, Length: 6, Score avg: 183.5976
+[0, 1, 2, 3, 4, 8, 9]
+Episode [841/2000], Score: 1301, Length: 6, Score avg: 184.9263
+[0, 1, 2, 3, 4, 8, 9]
+Episode [842/2000], Score: 1301, Length: 6, Score avg: 186.2518
+[0, 1, 2, 3, 4, 8, 9]
+Episode [843/2000], Score: 1301, Length: 6, Score avg: 187.5741
+[0, 1, 2, 3, 4, 8, 9]
+Episode [844/2000], Score: 1301, Length: 6, Score avg: 188.8934
+[0, 1, 2, 3, 4, 8, 9]
+Episode [845/2000], Score: 1301, Length: 6, Score avg: 190.2095
+[0, 1, 2, 3, 4, 8, 9]
+Episode [846/2000], Score: 1301, Length: 6, Score avg: 191.5225
+[0, 1, 2, 3, 4, 8, 9]
+Episode [847/2000], Score: 1301, Length: 6, Score avg: 192.8323
+[0, 1, 2, 3, 4, 8, 9]
+Episode [848/2000], Score: 1301, Length: 6, Score avg: 194.1392
+[0, 1, 2, 3, 4, 8, 9]
+Episode [849/2000], Score: 1301, Length: 6, Score avg: 195.4429
+[0, 1, 2, 3, 4, 8, 9]
+Episode [850/2000], Score: 1301, Length: 6, Score avg: 196.7435
+[0, 1, 2, 3, 4, 8, 9]
+Episode [851/2000], Score: 1301, Length: 6, Score avg: 198.0411
+[0, 1, 2, 3, 4, 8, 9]
+Episode [852/2000], Score: 1301, Length: 6, Score avg: 199.3357
+[0, 1, 2, 3, 4, 8, 9]
+Episode [853/2000], Score: 1301, Length: 6, Score avg: 200.6272
+[0, 1, 2, 3, 4, 8, 9]
+Episode [854/2000], Score: 1301, Length: 6, Score avg: 201.9157
+[0, 1, 2, 3, 4, 8, 9]
+Episode [855/2000], Score: 1301, Length: 6, Score avg: 203.2012
+[0, 1, 2, 3, 4, 8, 9]
+Episode [856/2000], Score: 1301, Length: 6, Score avg: 204.4836
+[0, 1, 2, 3, 4, 8, 9]
+Episode [857/2000], Score: 1301, Length: 6, Score avg: 205.7631
+[0, 1, 2, 3, 4, 8, 9]
+Episode [858/2000], Score: 1301, Length: 6, Score avg: 207.0396
+[0, 1, 2, 3, 4, 8, 9]
+Episode [859/2000], Score: 1301, Length: 6, Score avg: 208.3132
+[0, 1, 2, 3, 4, 8, 9]
+Episode [860/2000], Score: 1301, Length: 6, Score avg: 209.5837
+[0, 1, 2, 3, 4, 8, 9]
+Episode [861/2000], Score: 1301, Length: 6, Score avg: 210.8513
+[0, 1, 2, 3, 4, 8, 9]
+Episode [862/2000], Score: 1301, Length: 6, Score avg: 212.1160
+[0, 1, 2, 3, 4, 8, 9]
+Episode [863/2000], Score: 1301, Length: 6, Score avg: 213.3778
+[0, 1, 2, 3, 4, 8, 9]
+Episode [864/2000], Score: 1301, Length: 6, Score avg: 214.6366
+[0, 1, 2, 3, 4, 8, 9]
+Episode [865/2000], Score: 1301, Length: 6, Score avg: 215.8925
+[0, 1, 2, 3, 4, 8, 9]
+Episode [866/2000], Score: 1301, Length: 6, Score avg: 217.1455
+[0, 1, 2, 3, 4, 8, 9]
+Episode [867/2000], Score: 1301, Length: 6, Score avg: 218.3956
+[0, 1, 2, 3, 4, 8, 9]
+Episode [868/2000], Score: 1301, Length: 6, Score avg: 219.6429
+[0, 1, 2, 3, 4, 8, 9]
+Episode [869/2000], Score: 1301, Length: 6, Score avg: 220.8872
+[0, 1, 2, 3, 4, 8, 9]
+Episode [870/2000], Score: 1301, Length: 6, Score avg: 222.1287
+[0, 1, 2, 3, 4, 8, 9]
+Episode [871/2000], Score: 1301, Length: 6, Score avg: 223.3674
+[0, 1, 2, 3, 4, 8, 9]
+Episode [872/2000], Score: 1301, Length: 6, Score avg: 224.6032
+[0, 1, 2, 3, 4, 8, 9]
+Episode [873/2000], Score: 1301, Length: 6, Score avg: 225.8362
+[0, 1, 2, 3, 4, 8, 9]
+Episode [874/2000], Score: 1301, Length: 6, Score avg: 227.0664
+[0, 1, 2, 3, 4, 8, 9]
+Episode [875/2000], Score: 1301, Length: 6, Score avg: 228.2937
+[0, 1, 2, 3, 4, 8, 9]
+Episode [876/2000], Score: 1301, Length: 6, Score avg: 229.5183
+[0, 1, 2, 3, 4, 8, 9]
+Episode [877/2000], Score: 1301, Length: 6, Score avg: 230.7400
+[0, 1, 2, 3, 4, 8, 9]
+Episode [878/2000], Score: 1301, Length: 6, Score avg: 231.9590
+[0, 1, 2, 3, 4, 8, 9]
+Episode [879/2000], Score: 1301, Length: 6, Score avg: 233.1752
+[0, 1, 2, 3, 4, 8, 9]
+Episode [880/2000], Score: 1301, Length: 6, Score avg: 234.3886
+[0, 1, 2, 3, 4, 8, 9]
+Episode [881/2000], Score: 1301, Length: 6, Score avg: 235.5993
+[0, 1, 2, 3, 4, 8, 9]
+Episode [882/2000], Score: 1301, Length: 6, Score avg: 236.8073
+[0, 1, 2, 3, 4, 8, 9]
+Episode [883/2000], Score: 1301, Length: 6, Score avg: 238.0125
+[0, 1, 2, 3, 4, 8, 9]
+Episode [884/2000], Score: 1301, Length: 6, Score avg: 239.2149
+[0, 1, 2, 3, 4, 8, 9]
+Episode [885/2000], Score: 1301, Length: 6, Score avg: 240.4147
+[0, 1, 2, 3, 4, 8, 9]
+Episode [886/2000], Score: 1301, Length: 6, Score avg: 241.6117
+[0, 1, 2, 3, 4, 8, 9]
+Episode [887/2000], Score: 1301, Length: 6, Score avg: 242.8061
+[0, 1, 2, 3, 4, 8, 9]
+Episode [888/2000], Score: 1301, Length: 6, Score avg: 243.9977
+[0, 1, 2, 3, 4, 8, 9]
+Episode [889/2000], Score: 1301, Length: 6, Score avg: 245.1867
+[0, 1, 2, 3, 4, 8, 9]
+Episode [890/2000], Score: 1301, Length: 6, Score avg: 246.3730
+[0, 1, 2, 3, 4, 8, 9]
+Episode [891/2000], Score: 1301, Length: 6, Score avg: 247.5567
+[0, 1, 2, 3, 4, 8, 9]
+Episode [892/2000], Score: 1301, Length: 6, Score avg: 248.7377
+[0, 1, 2, 3, 4, 8, 9]
+Episode [893/2000], Score: 1301, Length: 6, Score avg: 249.9160
+[0, 1, 2, 3, 4, 8, 9]
+Episode [894/2000], Score: 1301, Length: 6, Score avg: 251.0917
+[0, 1, 2, 3, 4, 8, 9]
+Episode [895/2000], Score: 1301, Length: 6, Score avg: 252.2648
+[0, 1, 2, 3, 4, 8, 9]
+Episode [896/2000], Score: 1301, Length: 6, Score avg: 253.4353
+[0, 1, 2, 3, 4, 8, 9]
+Episode [897/2000], Score: 1301, Length: 6, Score avg: 254.6031
+[0, 1, 2, 3, 4, 8, 9]
+Episode [898/2000], Score: 1301, Length: 6, Score avg: 255.7684
+[0, 1, 2, 3, 4, 8, 9]
+Episode [899/2000], Score: 1301, Length: 6, Score avg: 256.9310
+[0, 1, 2, 3, 4, 8, 9]
+Episode [900/2000], Score: 1301, Length: 6, Score avg: 258.0911
+[0, 1, 2, 3, 4, 8, 9]
+Episode [901/2000], Score: 1301, Length: 6, Score avg: 259.2486
+[0, 1, 2, 3, 4, 8, 9]
+Episode [902/2000], Score: 1301, Length: 6, Score avg: 260.4035
+[0, 1, 2, 3, 4, 8, 9]
+Episode [903/2000], Score: 1301, Length: 6, Score avg: 261.5559
+[0, 1, 2, 3, 4, 8, 9]
+Episode [904/2000], Score: 1301, Length: 6, Score avg: 262.7058
+[0, 1, 2, 3, 4, 8, 9]
+Episode [905/2000], Score: 1301, Length: 6, Score avg: 263.8530
+[0, 1, 2, 3, 4, 8, 9]
+Episode [906/2000], Score: 1301, Length: 6, Score avg: 264.9978
+[0, 1, 2, 3, 4, 8, 9]
+Episode [907/2000], Score: 1301, Length: 6, Score avg: 266.1400
+[0, 1, 2, 3, 4, 8, 9]
+Episode [908/2000], Score: 1301, Length: 6, Score avg: 267.2797
+[0, 1, 2, 3, 4, 8, 9]
+Episode [909/2000], Score: 1301, Length: 6, Score avg: 268.4169
+[0, 1, 2, 3, 4, 8, 9]
+Episode [910/2000], Score: 1301, Length: 6, Score avg: 269.5516
+[0, 1, 2, 3, 4, 8, 9]
+Episode [911/2000], Score: 1301, Length: 6, Score avg: 270.6839
+[0, 1, 2, 3, 4, 8, 9]
+Episode [912/2000], Score: 1301, Length: 6, Score avg: 271.8136
+[0, 1, 2, 3, 4, 8, 9]
+Episode [913/2000], Score: 1301, Length: 6, Score avg: 272.9409
+[0, 1, 2, 3, 4, 8, 9]
+Episode [914/2000], Score: 1301, Length: 6, Score avg: 274.0656
+[0, 1, 2, 3, 4, 8, 9]
+Episode [915/2000], Score: 1301, Length: 6, Score avg: 275.1880
+[0, 1, 2, 3, 4, 8, 9]
+Episode [916/2000], Score: 1301, Length: 6, Score avg: 276.3079
+[0, 1, 2, 3, 4, 8, 9]
+Episode [917/2000], Score: 1301, Length: 6, Score avg: 277.4253
+[0, 1, 2, 3, 4, 8, 9]
+Episode [918/2000], Score: 1301, Length: 6, Score avg: 278.5403
+[0, 1, 2, 3, 4, 8, 9]
+Episode [919/2000], Score: 1301, Length: 6, Score avg: 279.6529
+[0, 1, 2, 3, 4, 8, 9]
+Episode [920/2000], Score: 1301, Length: 6, Score avg: 280.7630
+[0, 1, 2, 3, 4, 8, 9]
+Episode [921/2000], Score: 1301, Length: 6, Score avg: 281.8708
+[0, 1, 2, 3, 4, 8, 9]
+Episode [922/2000], Score: 1301, Length: 6, Score avg: 282.9761
+[0, 1, 2, 3, 4, 8, 9]
+Episode [923/2000], Score: 1301, Length: 6, Score avg: 284.0791
+[0, 1, 2, 3, 4, 8, 9]
+Episode [924/2000], Score: 1301, Length: 6, Score avg: 285.1797
+[0, 1, 2, 3, 4, 8, 9]
+Episode [925/2000], Score: 1301, Length: 6, Score avg: 286.2778
+[0, 1, 2, 3, 4, 8, 9]
+Episode [926/2000], Score: 1301, Length: 6, Score avg: 287.3737
+[0, 1, 2, 3, 4, 8, 9]
+Episode [927/2000], Score: 1301, Length: 6, Score avg: 288.4671
+[0, 1, 2, 3, 4, 8, 9]
+Episode [928/2000], Score: 1301, Length: 6, Score avg: 289.5582
+[0, 1, 2, 3, 4, 8, 9]
+Episode [929/2000], Score: 1301, Length: 6, Score avg: 290.6469
+[0, 1, 2, 3, 4, 8, 9]
+Episode [930/2000], Score: 1301, Length: 6, Score avg: 291.7333
+[0, 1, 2, 3, 4, 8, 9]
+Episode [931/2000], Score: 1301, Length: 6, Score avg: 292.8174
+[0, 1, 2, 3, 4, 8, 9]
+Episode [932/2000], Score: 1301, Length: 6, Score avg: 293.8991
+[0, 1, 2, 3, 4, 8, 9]
+Episode [933/2000], Score: 1301, Length: 6, Score avg: 294.9786
+[0, 1, 2, 3, 4, 8, 9]
+Episode [934/2000], Score: 1301, Length: 6, Score avg: 296.0557
+[0, 1, 2, 3, 4, 8, 9]
+Episode [935/2000], Score: 1301, Length: 6, Score avg: 297.1305
+[0, 1, 2, 3, 4, 8, 9]
+Episode [936/2000], Score: 1301, Length: 6, Score avg: 298.2030
+[0, 1, 2, 3, 4, 8, 9]
+Episode [937/2000], Score: 1301, Length: 6, Score avg: 299.2732
+[0, 1, 2, 3, 4, 8, 9]
+Episode [938/2000], Score: 1301, Length: 6, Score avg: 300.3412
+[0, 1, 2, 3, 4, 8, 9]
+Episode [939/2000], Score: 1301, Length: 6, Score avg: 301.4068
+[0, 1, 2, 3, 4, 8, 9]
+Episode [940/2000], Score: 1301, Length: 6, Score avg: 302.4702
+[0, 1, 2, 3, 4, 8, 9]
+Episode [941/2000], Score: 1301, Length: 6, Score avg: 303.5313
+[0, 1, 2, 3, 4, 8, 9]
+Episode [942/2000], Score: 1301, Length: 6, Score avg: 304.5902
+[0, 1, 2, 3, 4, 8, 9]
+Episode [943/2000], Score: 1301, Length: 6, Score avg: 305.6469
+[0, 1, 2, 3, 4, 8, 9]
+Episode [944/2000], Score: 1301, Length: 6, Score avg: 306.7013
+[0, 1, 2, 3, 4, 8, 9]
+Episode [945/2000], Score: 1301, Length: 6, Score avg: 307.7534
+[0, 1, 2, 3, 4, 8, 9]
+Episode [946/2000], Score: 1301, Length: 6, Score avg: 308.8034
+[0, 1, 2, 3, 4, 8, 9]
+Episode [947/2000], Score: 1301, Length: 6, Score avg: 309.8511
+[0, 1, 2, 3, 4, 8, 9]
+Episode [948/2000], Score: 1301, Length: 6, Score avg: 310.8966
+[0, 1, 2, 3, 4, 8, 9]
+Episode [949/2000], Score: 1301, Length: 6, Score avg: 311.9399
+[0, 1, 2, 3, 4, 8, 9]
+Episode [950/2000], Score: 1301, Length: 6, Score avg: 312.9811
+[0, 1, 2, 3, 4, 8, 9]
+Episode [951/2000], Score: 1301, Length: 6, Score avg: 314.0200
+[0, 1, 2, 3, 4, 8, 9]
+Episode [952/2000], Score: 1301, Length: 6, Score avg: 315.0567
+[0, 1, 2, 3, 4, 8, 9]
+Episode [953/2000], Score: 1301, Length: 6, Score avg: 316.0913
+[0, 1, 2, 3, 4, 8, 9]
+Episode [954/2000], Score: 1301, Length: 6, Score avg: 317.1237
+[0, 1, 2, 3, 4, 8, 9]
+Episode [955/2000], Score: 1301, Length: 6, Score avg: 318.1539
+[0, 1, 2, 3, 4, 8, 9]
+Episode [956/2000], Score: 1301, Length: 6, Score avg: 319.1820
+[0, 1, 2, 3, 4, 8, 9]
+Episode [957/2000], Score: 1301, Length: 6, Score avg: 320.2079
+[0, 1, 2, 3, 4, 8, 9]
+Episode [958/2000], Score: 1301, Length: 6, Score avg: 321.2317
+[0, 1, 2, 3, 4, 8, 9]
+Episode [959/2000], Score: 1301, Length: 6, Score avg: 322.2534
+[0, 1, 2, 3, 4, 8, 9]
+Episode [960/2000], Score: 1301, Length: 6, Score avg: 323.2729
+[0, 1, 2, 3, 4, 8, 9]
+Episode [961/2000], Score: 1301, Length: 6, Score avg: 324.2903
+[0, 1, 2, 3, 4, 8, 9]
+Episode [962/2000], Score: 1301, Length: 6, Score avg: 325.3056
+[0, 1, 2, 3, 4, 8, 9]
+Episode [963/2000], Score: 1301, Length: 6, Score avg: 326.3188
+[0, 1, 2, 3, 4, 8, 9]
+Episode [964/2000], Score: 1301, Length: 6, Score avg: 327.3299
+[0, 1, 2, 3, 4, 8, 9]
+Episode [965/2000], Score: 1301, Length: 6, Score avg: 328.3389
+[0, 1, 2, 3, 4, 8, 9]
+Episode [966/2000], Score: 1301, Length: 6, Score avg: 329.3458
+[0, 1, 2, 3, 4, 8, 9]
+Episode [967/2000], Score: 1301, Length: 6, Score avg: 330.3506
+[0, 1, 2, 3, 4, 8, 9]
+Episode [968/2000], Score: 1301, Length: 6, Score avg: 331.3533
+[0, 1, 2, 3, 4, 8, 9]
+Episode [969/2000], Score: 1301, Length: 6, Score avg: 332.3540
+[0, 1, 2, 3, 4, 8, 9]
+Episode [970/2000], Score: 1301, Length: 6, Score avg: 333.3526
+[0, 1, 2, 3, 4, 8, 9]
+Episode [971/2000], Score: 1301, Length: 6, Score avg: 334.3491
+[0, 1, 2, 3, 4, 8, 9]
+Episode [972/2000], Score: 1301, Length: 6, Score avg: 335.3436
+[0, 1, 2, 3, 4, 8, 9]
+Episode [973/2000], Score: 1301, Length: 6, Score avg: 336.3361
+[0, 1, 2, 3, 4, 8, 9]
+Episode [974/2000], Score: 1301, Length: 6, Score avg: 337.3265
+[0, 1, 2, 3, 4, 8, 9]
+Episode [975/2000], Score: 1301, Length: 6, Score avg: 338.3149
+[0, 1, 2, 3, 4, 8, 9]
+Episode [976/2000], Score: 1301, Length: 6, Score avg: 339.3012
+[0, 1, 2, 3, 4, 8, 9]
+Episode [977/2000], Score: 1301, Length: 6, Score avg: 340.2856
+[0, 1, 2, 3, 4, 8, 9]
+Episode [978/2000], Score: 1301, Length: 6, Score avg: 341.2679
+[0, 1, 2, 3, 4, 8, 9]
+Episode [979/2000], Score: 1301, Length: 6, Score avg: 342.2482
+[0, 1, 2, 3, 4, 8, 9]
+Episode [980/2000], Score: 1301, Length: 6, Score avg: 343.2265
+[0, 1, 2, 3, 4, 8, 9]
+Episode [981/2000], Score: 1301, Length: 6, Score avg: 344.2029
+[0, 1, 2, 3, 4, 8, 9]
+Episode [982/2000], Score: 1301, Length: 6, Score avg: 345.1772
+[0, 1, 2, 3, 4, 8, 9]
+Episode [983/2000], Score: 1301, Length: 6, Score avg: 346.1495
+[0, 1, 2, 3, 4, 8, 9]
+Episode [984/2000], Score: 1301, Length: 6, Score avg: 347.1199
+[0, 1, 2, 3, 4, 8, 9]
+Episode [985/2000], Score: 1301, Length: 6, Score avg: 348.0883
+[0, 1, 2, 3, 4, 8, 9]
+Episode [986/2000], Score: 1301, Length: 6, Score avg: 349.0548
+[0, 1, 2, 3, 4, 8, 9]
+Episode [987/2000], Score: 1301, Length: 6, Score avg: 350.0193
+[0, 1, 2, 3, 4, 8, 9]
+Episode [988/2000], Score: 1301, Length: 6, Score avg: 350.9818
+[0, 1, 2, 3, 4, 8, 9]
+Episode [989/2000], Score: 1301, Length: 6, Score avg: 351.9424
+[0, 1, 2, 3, 4, 8, 9]
+Episode [990/2000], Score: 1301, Length: 6, Score avg: 352.9010
+[0, 1, 2, 3, 4, 8, 9]
+Episode [991/2000], Score: 1301, Length: 6, Score avg: 353.8577
+[0, 1, 2, 3, 4, 8, 9]
+Episode [992/2000], Score: 1301, Length: 6, Score avg: 354.8125
+[0, 1, 2, 3, 4, 8, 9]
+Episode [993/2000], Score: 1301, Length: 6, Score avg: 355.7654
+[0, 1, 2, 3, 4, 8, 9]
+Episode [994/2000], Score: 1301, Length: 6, Score avg: 356.7163
+[0, 1, 2, 3, 4, 8, 9]
+Episode [995/2000], Score: 1301, Length: 6, Score avg: 357.6653
+[0, 1, 2, 3, 4, 8, 9]
+Episode [996/2000], Score: 1301, Length: 6, Score avg: 358.6124
+[0, 1, 2, 3, 4, 8, 9]
+Episode [997/2000], Score: 1301, Length: 6, Score avg: 359.5577
+[0, 1, 2, 3, 4, 8, 9]
+Episode [998/2000], Score: 1301, Length: 6, Score avg: 360.5010
+[0, 1, 2, 3, 4, 8, 9]
+Episode [999/2000], Score: 1301, Length: 6, Score avg: 361.4424
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1000/2000], Score: 1301, Length: 6, Score avg: 362.3820
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1001/2000], Score: 1301, Length: 6, Score avg: 363.3197
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1002/2000], Score: 1301, Length: 6, Score avg: 364.2555
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1003/2000], Score: 1301, Length: 6, Score avg: 365.1894
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1004/2000], Score: 1301, Length: 6, Score avg: 366.1215
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1005/2000], Score: 1301, Length: 6, Score avg: 367.0517
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1006/2000], Score: 1301, Length: 6, Score avg: 367.9801
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1007/2000], Score: 1301, Length: 6, Score avg: 368.9067
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1008/2000], Score: 1301, Length: 6, Score avg: 369.8313
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1009/2000], Score: 1301, Length: 6, Score avg: 370.7542
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1010/2000], Score: 1301, Length: 6, Score avg: 371.6752
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1011/2000], Score: 1301, Length: 6, Score avg: 372.5945
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1012/2000], Score: 1301, Length: 6, Score avg: 373.5119
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1013/2000], Score: 1301, Length: 6, Score avg: 374.4274
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1014/2000], Score: 1301, Length: 6, Score avg: 375.3412
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1015/2000], Score: 1301, Length: 6, Score avg: 376.2532
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1016/2000], Score: 1301, Length: 6, Score avg: 377.1634
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1017/2000], Score: 1301, Length: 6, Score avg: 378.0718
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1018/2000], Score: 1301, Length: 6, Score avg: 378.9784
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1019/2000], Score: 1301, Length: 6, Score avg: 379.8832
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1020/2000], Score: 1301, Length: 6, Score avg: 380.7863
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1021/2000], Score: 1301, Length: 6, Score avg: 381.6876
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1022/2000], Score: 1301, Length: 6, Score avg: 382.5871
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1023/2000], Score: 1301, Length: 6, Score avg: 383.4848
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1024/2000], Score: 1301, Length: 6, Score avg: 384.3809
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1025/2000], Score: 1301, Length: 6, Score avg: 385.2751
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1026/2000], Score: 1301, Length: 6, Score avg: 386.1676
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1027/2000], Score: 1301, Length: 6, Score avg: 387.0584
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1028/2000], Score: 1301, Length: 6, Score avg: 387.9475
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1029/2000], Score: 1301, Length: 6, Score avg: 388.8348
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1030/2000], Score: 1301, Length: 6, Score avg: 389.7204
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1031/2000], Score: 1301, Length: 6, Score avg: 390.6043
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1032/2000], Score: 1301, Length: 6, Score avg: 391.4864
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1033/2000], Score: 1301, Length: 6, Score avg: 392.3669
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1034/2000], Score: 1301, Length: 6, Score avg: 393.2456
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1035/2000], Score: 1301, Length: 6, Score avg: 394.1227
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1036/2000], Score: 1301, Length: 6, Score avg: 394.9981
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1037/2000], Score: 1301, Length: 6, Score avg: 395.8717
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1038/2000], Score: 1301, Length: 6, Score avg: 396.7437
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1039/2000], Score: 1301, Length: 6, Score avg: 397.6141
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1040/2000], Score: 1301, Length: 6, Score avg: 398.4827
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1041/2000], Score: 1301, Length: 6, Score avg: 399.3497
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1042/2000], Score: 1301, Length: 6, Score avg: 400.2150
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1043/2000], Score: 1301, Length: 6, Score avg: 401.0786
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1044/2000], Score: 1301, Length: 6, Score avg: 401.9406
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1045/2000], Score: 1301, Length: 6, Score avg: 402.8010
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1046/2000], Score: 1301, Length: 6, Score avg: 403.6597
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1047/2000], Score: 1301, Length: 6, Score avg: 404.5167
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1048/2000], Score: 1301, Length: 6, Score avg: 405.3721
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1049/2000], Score: 1301, Length: 6, Score avg: 406.2259
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1050/2000], Score: 1301, Length: 6, Score avg: 407.0781
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1051/2000], Score: 1301, Length: 6, Score avg: 407.9286
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1052/2000], Score: 1301, Length: 6, Score avg: 408.7776
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1053/2000], Score: 1301, Length: 6, Score avg: 409.6249
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1054/2000], Score: 1301, Length: 6, Score avg: 410.4706
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1055/2000], Score: 1301, Length: 6, Score avg: 411.3147
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1056/2000], Score: 1301, Length: 6, Score avg: 412.1572
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1057/2000], Score: 1301, Length: 6, Score avg: 412.9981
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1058/2000], Score: 1301, Length: 6, Score avg: 413.8374
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1059/2000], Score: 1301, Length: 6, Score avg: 414.6752
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1060/2000], Score: 1301, Length: 6, Score avg: 415.5113
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1061/2000], Score: 1301, Length: 6, Score avg: 416.3459
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1062/2000], Score: 1301, Length: 6, Score avg: 417.1789
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1063/2000], Score: 1301, Length: 6, Score avg: 418.0103
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1064/2000], Score: 1301, Length: 6, Score avg: 418.8402
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1065/2000], Score: 1301, Length: 6, Score avg: 419.6685
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1066/2000], Score: 1301, Length: 6, Score avg: 420.4953
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1067/2000], Score: 1301, Length: 6, Score avg: 421.3205
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1068/2000], Score: 1301, Length: 6, Score avg: 422.1442
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1069/2000], Score: 1301, Length: 6, Score avg: 422.9663
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1070/2000], Score: 1301, Length: 6, Score avg: 423.7869
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1071/2000], Score: 1301, Length: 6, Score avg: 424.6060
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1072/2000], Score: 1301, Length: 6, Score avg: 425.4235
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1073/2000], Score: 1301, Length: 6, Score avg: 426.2395
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1074/2000], Score: 1301, Length: 6, Score avg: 427.0540
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1075/2000], Score: 1301, Length: 6, Score avg: 427.8670
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1076/2000], Score: 1301, Length: 6, Score avg: 428.6784
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1077/2000], Score: 1301, Length: 6, Score avg: 429.4884
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1078/2000], Score: 1301, Length: 6, Score avg: 430.2968
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1079/2000], Score: 1301, Length: 6, Score avg: 431.1038
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1080/2000], Score: 1301, Length: 6, Score avg: 431.9093
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1081/2000], Score: 1301, Length: 6, Score avg: 432.7132
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1082/2000], Score: 1301, Length: 6, Score avg: 433.5157
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1083/2000], Score: 1301, Length: 6, Score avg: 434.3167
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1084/2000], Score: 1301, Length: 6, Score avg: 435.1162
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1085/2000], Score: 1301, Length: 6, Score avg: 435.9143
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1086/2000], Score: 1301, Length: 6, Score avg: 436.7109
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1087/2000], Score: 1301, Length: 6, Score avg: 437.5060
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1088/2000], Score: 1301, Length: 6, Score avg: 438.2996
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1089/2000], Score: 1301, Length: 6, Score avg: 439.0918
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1090/2000], Score: 1301, Length: 6, Score avg: 439.8826
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1091/2000], Score: 1301, Length: 6, Score avg: 440.6719
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1092/2000], Score: 1301, Length: 6, Score avg: 441.4597
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1093/2000], Score: 1301, Length: 6, Score avg: 442.2461
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1094/2000], Score: 1301, Length: 6, Score avg: 443.0311
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1095/2000], Score: 1301, Length: 6, Score avg: 443.8146
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1096/2000], Score: 1301, Length: 6, Score avg: 444.5967
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1097/2000], Score: 1301, Length: 6, Score avg: 445.3774
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1098/2000], Score: 1301, Length: 6, Score avg: 446.1566
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1099/2000], Score: 1301, Length: 6, Score avg: 446.9345
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1100/2000], Score: 1301, Length: 6, Score avg: 447.7109
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1101/2000], Score: 1301, Length: 6, Score avg: 448.4859
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1102/2000], Score: 1301, Length: 6, Score avg: 449.2595
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1103/2000], Score: 1301, Length: 6, Score avg: 450.0317
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1104/2000], Score: 1301, Length: 6, Score avg: 450.8025
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1105/2000], Score: 1301, Length: 6, Score avg: 451.5719
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1106/2000], Score: 1301, Length: 6, Score avg: 452.3400
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1107/2000], Score: 1301, Length: 6, Score avg: 453.1066
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1108/2000], Score: 1301, Length: 6, Score avg: 453.8718
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1109/2000], Score: 1301, Length: 6, Score avg: 454.6357
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1110/2000], Score: 1301, Length: 6, Score avg: 455.3982
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1111/2000], Score: 1301, Length: 6, Score avg: 456.1593
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1112/2000], Score: 1301, Length: 6, Score avg: 456.9191
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1113/2000], Score: 1301, Length: 6, Score avg: 457.6774
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1114/2000], Score: 1301, Length: 6, Score avg: 458.4345
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1115/2000], Score: 1301, Length: 6, Score avg: 459.1901
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1116/2000], Score: 1301, Length: 6, Score avg: 459.9444
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1117/2000], Score: 1301, Length: 6, Score avg: 460.6974
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1118/2000], Score: 1301, Length: 6, Score avg: 461.4490
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1119/2000], Score: 1301, Length: 6, Score avg: 462.1993
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1120/2000], Score: 1301, Length: 6, Score avg: 462.9482
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1121/2000], Score: 1301, Length: 6, Score avg: 463.6958
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1122/2000], Score: 1301, Length: 6, Score avg: 464.4421
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1123/2000], Score: 1301, Length: 6, Score avg: 465.1870
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1124/2000], Score: 1301, Length: 6, Score avg: 465.9306
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1125/2000], Score: 1301, Length: 6, Score avg: 466.6729
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1126/2000], Score: 1301, Length: 6, Score avg: 467.4139
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1127/2000], Score: 1301, Length: 6, Score avg: 468.1535
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1128/2000], Score: 1301, Length: 6, Score avg: 468.8918
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1129/2000], Score: 1301, Length: 6, Score avg: 469.6289
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1130/2000], Score: 1301, Length: 6, Score avg: 470.3646
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1131/2000], Score: 1301, Length: 6, Score avg: 471.0990
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1132/2000], Score: 1301, Length: 6, Score avg: 471.8322
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1133/2000], Score: 1301, Length: 6, Score avg: 472.5640
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1134/2000], Score: 1301, Length: 6, Score avg: 473.2945
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1135/2000], Score: 1301, Length: 6, Score avg: 474.0238
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1136/2000], Score: 1301, Length: 6, Score avg: 474.7518
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1137/2000], Score: 1301, Length: 6, Score avg: 475.4785
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1138/2000], Score: 1301, Length: 6, Score avg: 476.2039
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1139/2000], Score: 1301, Length: 6, Score avg: 476.9280
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1140/2000], Score: 1301, Length: 6, Score avg: 477.6509
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1141/2000], Score: 1301, Length: 6, Score avg: 478.3725
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1142/2000], Score: 1301, Length: 6, Score avg: 479.0928
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1143/2000], Score: 1301, Length: 6, Score avg: 479.8119
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1144/2000], Score: 1301, Length: 6, Score avg: 480.5297
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1145/2000], Score: 1301, Length: 6, Score avg: 481.2463
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1146/2000], Score: 1301, Length: 6, Score avg: 481.9616
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1147/2000], Score: 1301, Length: 6, Score avg: 482.6757
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1148/2000], Score: 1301, Length: 6, Score avg: 483.3885
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1149/2000], Score: 1301, Length: 6, Score avg: 484.1001
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1150/2000], Score: 1301, Length: 6, Score avg: 484.8104
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1151/2000], Score: 1301, Length: 6, Score avg: 485.5195
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1152/2000], Score: 1301, Length: 6, Score avg: 486.2274
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1153/2000], Score: 1301, Length: 6, Score avg: 486.9341
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1154/2000], Score: 1301, Length: 6, Score avg: 487.6395
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1155/2000], Score: 1301, Length: 6, Score avg: 488.3437
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1156/2000], Score: 1301, Length: 6, Score avg: 489.0467
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1157/2000], Score: 1301, Length: 6, Score avg: 489.7485
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1158/2000], Score: 1301, Length: 6, Score avg: 490.4491
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1159/2000], Score: 1301, Length: 6, Score avg: 491.1484
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1160/2000], Score: 1301, Length: 6, Score avg: 491.8466
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1161/2000], Score: 1301, Length: 6, Score avg: 492.5435
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1162/2000], Score: 1301, Length: 6, Score avg: 493.2392
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1163/2000], Score: 1301, Length: 6, Score avg: 493.9338
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1164/2000], Score: 1301, Length: 6, Score avg: 494.6271
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1165/2000], Score: 1301, Length: 6, Score avg: 495.3193
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1166/2000], Score: 1301, Length: 6, Score avg: 496.0103
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1167/2000], Score: 1301, Length: 6, Score avg: 496.7001
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1168/2000], Score: 1301, Length: 6, Score avg: 497.3887
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1169/2000], Score: 1301, Length: 6, Score avg: 498.0761
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1170/2000], Score: 1301, Length: 6, Score avg: 498.7624
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1171/2000], Score: 1301, Length: 6, Score avg: 499.4475
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1172/2000], Score: 1301, Length: 6, Score avg: 500.1314
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1173/2000], Score: 1301, Length: 6, Score avg: 500.8142
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1174/2000], Score: 1301, Length: 6, Score avg: 501.4957
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1175/2000], Score: 1301, Length: 6, Score avg: 502.1762
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1176/2000], Score: 1301, Length: 6, Score avg: 502.8554
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1177/2000], Score: 1301, Length: 6, Score avg: 503.5336
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1178/2000], Score: 1301, Length: 6, Score avg: 504.2105
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1179/2000], Score: 1301, Length: 6, Score avg: 504.8863
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1180/2000], Score: 1301, Length: 6, Score avg: 505.5610
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1181/2000], Score: 1301, Length: 6, Score avg: 506.2345
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1182/2000], Score: 1301, Length: 6, Score avg: 506.9069
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1183/2000], Score: 1301, Length: 6, Score avg: 507.5782
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1184/2000], Score: 1301, Length: 6, Score avg: 508.2483
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1185/2000], Score: 1301, Length: 6, Score avg: 508.9173
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1186/2000], Score: 1301, Length: 6, Score avg: 509.5852
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1187/2000], Score: 1301, Length: 6, Score avg: 510.2519
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1188/2000], Score: 1301, Length: 6, Score avg: 510.9175
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1189/2000], Score: 1301, Length: 6, Score avg: 511.5820
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1190/2000], Score: 1301, Length: 6, Score avg: 512.2454
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1191/2000], Score: 1301, Length: 6, Score avg: 512.9076
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1192/2000], Score: 1301, Length: 6, Score avg: 513.5688
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1193/2000], Score: 1301, Length: 6, Score avg: 514.2288
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1194/2000], Score: 1301, Length: 6, Score avg: 514.8878
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1195/2000], Score: 1301, Length: 6, Score avg: 515.5456
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1196/2000], Score: 1301, Length: 6, Score avg: 516.2023
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1197/2000], Score: 1301, Length: 6, Score avg: 516.8580
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1198/2000], Score: 1301, Length: 6, Score avg: 517.5125
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1199/2000], Score: 1301, Length: 6, Score avg: 518.1660
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1200/2000], Score: 1301, Length: 6, Score avg: 518.8183
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1201/2000], Score: 1301, Length: 6, Score avg: 519.4696
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1202/2000], Score: 1301, Length: 6, Score avg: 520.1198
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1203/2000], Score: 1301, Length: 6, Score avg: 520.7689
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1204/2000], Score: 1301, Length: 6, Score avg: 521.4169
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1205/2000], Score: 1301, Length: 6, Score avg: 522.0639
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1206/2000], Score: 1301, Length: 6, Score avg: 522.7098
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1207/2000], Score: 1301, Length: 6, Score avg: 523.3546
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1208/2000], Score: 1301, Length: 6, Score avg: 523.9983
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1209/2000], Score: 1301, Length: 6, Score avg: 524.6410
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1210/2000], Score: 1301, Length: 6, Score avg: 525.2826
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1211/2000], Score: 1301, Length: 6, Score avg: 525.9232
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1212/2000], Score: 1301, Length: 6, Score avg: 526.5627
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1213/2000], Score: 1301, Length: 6, Score avg: 527.2012
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1214/2000], Score: 1301, Length: 6, Score avg: 527.8386
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1215/2000], Score: 1301, Length: 6, Score avg: 528.4749
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1216/2000], Score: 1301, Length: 6, Score avg: 529.1102
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1217/2000], Score: 1301, Length: 6, Score avg: 529.7445
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1218/2000], Score: 1301, Length: 6, Score avg: 530.3777
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1219/2000], Score: 1301, Length: 6, Score avg: 531.0098
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1220/2000], Score: 1301, Length: 6, Score avg: 531.6410
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1221/2000], Score: 1301, Length: 6, Score avg: 532.2711
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1222/2000], Score: 1301, Length: 6, Score avg: 532.9002
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1223/2000], Score: 1301, Length: 6, Score avg: 533.5282
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1224/2000], Score: 1301, Length: 6, Score avg: 534.1552
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1225/2000], Score: 1301, Length: 6, Score avg: 534.7812
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1226/2000], Score: 1301, Length: 6, Score avg: 535.4062
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1227/2000], Score: 1301, Length: 6, Score avg: 536.0302
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1228/2000], Score: 1301, Length: 6, Score avg: 536.6531
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1229/2000], Score: 1301, Length: 6, Score avg: 537.2750
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1230/2000], Score: 1301, Length: 6, Score avg: 537.8959
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1231/2000], Score: 1301, Length: 6, Score avg: 538.5158
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1232/2000], Score: 1301, Length: 6, Score avg: 539.1347
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1233/2000], Score: 1301, Length: 6, Score avg: 539.7526
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1234/2000], Score: 1301, Length: 6, Score avg: 540.3695
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1235/2000], Score: 1301, Length: 6, Score avg: 540.9854
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1236/2000], Score: 1301, Length: 6, Score avg: 541.6003
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1237/2000], Score: 1301, Length: 6, Score avg: 542.2142
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1238/2000], Score: 1301, Length: 6, Score avg: 542.8271
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1239/2000], Score: 1301, Length: 6, Score avg: 543.4391
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1240/2000], Score: 1301, Length: 6, Score avg: 544.0500
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1241/2000], Score: 1301, Length: 6, Score avg: 544.6600
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1242/2000], Score: 1301, Length: 6, Score avg: 545.2689
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1243/2000], Score: 1301, Length: 6, Score avg: 545.8769
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1244/2000], Score: 1301, Length: 6, Score avg: 546.4839
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1245/2000], Score: 1301, Length: 6, Score avg: 547.0900
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1246/2000], Score: 1301, Length: 6, Score avg: 547.6950
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1247/2000], Score: 1301, Length: 6, Score avg: 548.2991
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1248/2000], Score: 1301, Length: 6, Score avg: 548.9022
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1249/2000], Score: 1301, Length: 6, Score avg: 549.5044
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1250/2000], Score: 1301, Length: 6, Score avg: 550.1056
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1251/2000], Score: 1301, Length: 6, Score avg: 550.7058
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1252/2000], Score: 1301, Length: 6, Score avg: 551.3051
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1253/2000], Score: 1301, Length: 6, Score avg: 551.9034
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1254/2000], Score: 1301, Length: 6, Score avg: 552.5008
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1255/2000], Score: 1301, Length: 6, Score avg: 553.0972
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1256/2000], Score: 1301, Length: 6, Score avg: 553.6927
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1257/2000], Score: 1301, Length: 6, Score avg: 554.2872
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1258/2000], Score: 1301, Length: 6, Score avg: 554.8808
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1259/2000], Score: 1301, Length: 6, Score avg: 555.4734
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1260/2000], Score: 1301, Length: 6, Score avg: 556.0651
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1261/2000], Score: 1301, Length: 6, Score avg: 556.6558
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1262/2000], Score: 1301, Length: 6, Score avg: 557.2456
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1263/2000], Score: 1301, Length: 6, Score avg: 557.8345
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1264/2000], Score: 1301, Length: 6, Score avg: 558.4225
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1265/2000], Score: 1301, Length: 6, Score avg: 559.0095
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1266/2000], Score: 1301, Length: 6, Score avg: 559.5956
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1267/2000], Score: 1301, Length: 6, Score avg: 560.1807
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1268/2000], Score: 1301, Length: 6, Score avg: 560.7650
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1269/2000], Score: 1301, Length: 6, Score avg: 561.3483
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1270/2000], Score: 1301, Length: 6, Score avg: 561.9307
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1271/2000], Score: 1301, Length: 6, Score avg: 562.5122
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1272/2000], Score: 1301, Length: 6, Score avg: 563.0928
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1273/2000], Score: 1301, Length: 6, Score avg: 563.6724
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1274/2000], Score: 1301, Length: 6, Score avg: 564.2512
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1275/2000], Score: 1301, Length: 6, Score avg: 564.8290
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1276/2000], Score: 1301, Length: 6, Score avg: 565.4060
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1277/2000], Score: 1301, Length: 6, Score avg: 565.9820
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1278/2000], Score: 1301, Length: 6, Score avg: 566.5571
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1279/2000], Score: 1301, Length: 6, Score avg: 567.1314
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1280/2000], Score: 1301, Length: 6, Score avg: 567.7047
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1281/2000], Score: 1301, Length: 6, Score avg: 568.2771
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1282/2000], Score: 1301, Length: 6, Score avg: 568.8487
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1283/2000], Score: 1301, Length: 6, Score avg: 569.4193
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1284/2000], Score: 1301, Length: 6, Score avg: 569.9891
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1285/2000], Score: 1301, Length: 6, Score avg: 570.5580
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1286/2000], Score: 1301, Length: 6, Score avg: 571.1260
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1287/2000], Score: 1301, Length: 6, Score avg: 571.6931
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1288/2000], Score: 1301, Length: 6, Score avg: 572.2593
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1289/2000], Score: 1301, Length: 6, Score avg: 572.8247
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1290/2000], Score: 1301, Length: 6, Score avg: 573.3891
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1291/2000], Score: 1301, Length: 6, Score avg: 573.9527
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1292/2000], Score: 1301, Length: 6, Score avg: 574.5155
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1293/2000], Score: 1301, Length: 6, Score avg: 575.0773
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1294/2000], Score: 1301, Length: 6, Score avg: 575.6383
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1295/2000], Score: 1301, Length: 6, Score avg: 576.1985
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1296/2000], Score: 1301, Length: 6, Score avg: 576.7577
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1297/2000], Score: 1301, Length: 6, Score avg: 577.3161
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1298/2000], Score: 1301, Length: 6, Score avg: 577.8737
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1299/2000], Score: 1301, Length: 6, Score avg: 578.4303
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1300/2000], Score: 1301, Length: 6, Score avg: 578.9862
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1301/2000], Score: 1301, Length: 6, Score avg: 579.5411
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1302/2000], Score: 1301, Length: 6, Score avg: 580.0952
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1303/2000], Score: 1301, Length: 6, Score avg: 580.6485
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1304/2000], Score: 1301, Length: 6, Score avg: 581.2009
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1305/2000], Score: 1301, Length: 6, Score avg: 581.7525
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1306/2000], Score: 1301, Length: 6, Score avg: 582.3032
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1307/2000], Score: 1301, Length: 6, Score avg: 582.8531
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1308/2000], Score: 1301, Length: 6, Score avg: 583.4021
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1309/2000], Score: 1301, Length: 6, Score avg: 583.9503
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1310/2000], Score: 1301, Length: 6, Score avg: 584.4977
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1311/2000], Score: 1301, Length: 6, Score avg: 585.0442
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1312/2000], Score: 1301, Length: 6, Score avg: 585.5899
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1313/2000], Score: 1301, Length: 6, Score avg: 586.1348
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1314/2000], Score: 1301, Length: 6, Score avg: 586.6788
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1315/2000], Score: 1301, Length: 6, Score avg: 587.2221
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1316/2000], Score: 1301, Length: 6, Score avg: 587.7644
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1317/2000], Score: 1301, Length: 6, Score avg: 588.3060
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1318/2000], Score: 1301, Length: 6, Score avg: 588.8467
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1319/2000], Score: 1301, Length: 6, Score avg: 589.3867
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1320/2000], Score: 1301, Length: 6, Score avg: 589.9258
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1321/2000], Score: 1301, Length: 6, Score avg: 590.4640
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1322/2000], Score: 1301, Length: 6, Score avg: 591.0015
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1323/2000], Score: 1301, Length: 6, Score avg: 591.5382
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1324/2000], Score: 1301, Length: 6, Score avg: 592.0740
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1325/2000], Score: 1301, Length: 6, Score avg: 592.6091
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1326/2000], Score: 1301, Length: 6, Score avg: 593.1433
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1327/2000], Score: 1301, Length: 6, Score avg: 593.6767
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1328/2000], Score: 1301, Length: 6, Score avg: 594.2093
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1329/2000], Score: 1301, Length: 6, Score avg: 594.7412
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1330/2000], Score: 1301, Length: 6, Score avg: 595.2722
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1331/2000], Score: 1301, Length: 6, Score avg: 595.8024
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1332/2000], Score: 1301, Length: 6, Score avg: 596.3318
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1333/2000], Score: 1301, Length: 6, Score avg: 596.8605
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1334/2000], Score: 1301, Length: 6, Score avg: 597.3883
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1335/2000], Score: 1301, Length: 6, Score avg: 597.9154
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1336/2000], Score: 1301, Length: 6, Score avg: 598.4416
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1337/2000], Score: 1301, Length: 6, Score avg: 598.9671
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1338/2000], Score: 1301, Length: 6, Score avg: 599.4918
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1339/2000], Score: 1301, Length: 6, Score avg: 600.0157
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1340/2000], Score: 1301, Length: 6, Score avg: 600.5388
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1341/2000], Score: 1301, Length: 6, Score avg: 601.0611
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1342/2000], Score: 1301, Length: 6, Score avg: 601.5827
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1343/2000], Score: 1301, Length: 6, Score avg: 602.1035
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1344/2000], Score: 1301, Length: 6, Score avg: 602.6235
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1345/2000], Score: 1301, Length: 6, Score avg: 603.1428
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1346/2000], Score: 1301, Length: 6, Score avg: 603.6612
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1347/2000], Score: 1301, Length: 6, Score avg: 604.1789
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1348/2000], Score: 1301, Length: 6, Score avg: 604.6958
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1349/2000], Score: 1301, Length: 6, Score avg: 605.2120
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1350/2000], Score: 1301, Length: 6, Score avg: 605.7274
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1351/2000], Score: 1301, Length: 6, Score avg: 606.2420
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1352/2000], Score: 1301, Length: 6, Score avg: 606.7559
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1353/2000], Score: 1301, Length: 6, Score avg: 607.2690
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1354/2000], Score: 1301, Length: 6, Score avg: 607.7814
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1355/2000], Score: 1301, Length: 6, Score avg: 608.2930
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1356/2000], Score: 1301, Length: 6, Score avg: 608.8038
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1357/2000], Score: 1301, Length: 6, Score avg: 609.3139
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1358/2000], Score: 1301, Length: 6, Score avg: 609.8233
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1359/2000], Score: 1301, Length: 6, Score avg: 610.3319
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1360/2000], Score: 1301, Length: 6, Score avg: 610.8397
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1361/2000], Score: 1301, Length: 6, Score avg: 611.3468
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1362/2000], Score: 1301, Length: 6, Score avg: 611.8532
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1363/2000], Score: 1301, Length: 6, Score avg: 612.3588
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1364/2000], Score: 1301, Length: 6, Score avg: 612.8636
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1365/2000], Score: 1301, Length: 6, Score avg: 613.3678
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1366/2000], Score: 1301, Length: 6, Score avg: 613.8712
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1367/2000], Score: 1301, Length: 6, Score avg: 614.3738
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1368/2000], Score: 1301, Length: 6, Score avg: 614.8757
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1369/2000], Score: 1301, Length: 6, Score avg: 615.3769
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1370/2000], Score: 1301, Length: 6, Score avg: 615.8774
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1371/2000], Score: 1301, Length: 6, Score avg: 616.3771
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1372/2000], Score: 1301, Length: 6, Score avg: 616.8761
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1373/2000], Score: 1301, Length: 6, Score avg: 617.3744
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1374/2000], Score: 1301, Length: 6, Score avg: 617.8719
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1375/2000], Score: 1301, Length: 6, Score avg: 618.3687
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1376/2000], Score: 1301, Length: 6, Score avg: 618.8648
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1377/2000], Score: 1301, Length: 6, Score avg: 619.3602
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1378/2000], Score: 1301, Length: 6, Score avg: 619.8549
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1379/2000], Score: 1301, Length: 6, Score avg: 620.3488
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1380/2000], Score: 1301, Length: 6, Score avg: 620.8420
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1381/2000], Score: 1301, Length: 6, Score avg: 621.3345
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1382/2000], Score: 1301, Length: 6, Score avg: 621.8263
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1383/2000], Score: 1301, Length: 6, Score avg: 622.3174
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1384/2000], Score: 1301, Length: 6, Score avg: 622.8078
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1385/2000], Score: 1301, Length: 6, Score avg: 623.2975
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1386/2000], Score: 1301, Length: 6, Score avg: 623.7864
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1387/2000], Score: 1301, Length: 6, Score avg: 624.2747
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1388/2000], Score: 1301, Length: 6, Score avg: 624.7622
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1389/2000], Score: 1301, Length: 6, Score avg: 625.2491
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1390/2000], Score: 1301, Length: 6, Score avg: 625.7353
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1391/2000], Score: 1301, Length: 6, Score avg: 626.2207
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1392/2000], Score: 1301, Length: 6, Score avg: 626.7055
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1393/2000], Score: 1301, Length: 6, Score avg: 627.1895
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1394/2000], Score: 1301, Length: 6, Score avg: 627.6729
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1395/2000], Score: 1301, Length: 6, Score avg: 628.1556
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1396/2000], Score: 1301, Length: 6, Score avg: 628.6375
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1397/2000], Score: 1301, Length: 6, Score avg: 629.1188
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1398/2000], Score: 1301, Length: 6, Score avg: 629.5994
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1399/2000], Score: 1301, Length: 6, Score avg: 630.0793
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1400/2000], Score: 1301, Length: 6, Score avg: 630.5586
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1401/2000], Score: 1301, Length: 6, Score avg: 631.0371
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1402/2000], Score: 1301, Length: 6, Score avg: 631.5150
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1403/2000], Score: 1301, Length: 6, Score avg: 631.9922
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1404/2000], Score: 1301, Length: 6, Score avg: 632.4687
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1405/2000], Score: 1301, Length: 6, Score avg: 632.9445
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1406/2000], Score: 1301, Length: 6, Score avg: 633.4196
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1407/2000], Score: 1301, Length: 6, Score avg: 633.8941
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1408/2000], Score: 1301, Length: 6, Score avg: 634.3679
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1409/2000], Score: 1301, Length: 6, Score avg: 634.8410
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1410/2000], Score: 1301, Length: 6, Score avg: 635.3135
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1411/2000], Score: 1301, Length: 6, Score avg: 635.7853
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1412/2000], Score: 1301, Length: 6, Score avg: 636.2564
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1413/2000], Score: 1301, Length: 6, Score avg: 636.7268
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1414/2000], Score: 1301, Length: 6, Score avg: 637.1966
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1415/2000], Score: 1301, Length: 6, Score avg: 637.6657
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1416/2000], Score: 1301, Length: 6, Score avg: 638.1342
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1417/2000], Score: 1301, Length: 6, Score avg: 638.6020
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1418/2000], Score: 1301, Length: 6, Score avg: 639.0691
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1419/2000], Score: 1301, Length: 6, Score avg: 639.5356
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1420/2000], Score: 1301, Length: 6, Score avg: 640.0014
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1421/2000], Score: 1301, Length: 6, Score avg: 640.4666
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1422/2000], Score: 1301, Length: 6, Score avg: 640.9311
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1423/2000], Score: 1301, Length: 6, Score avg: 641.3949
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1424/2000], Score: 1301, Length: 6, Score avg: 641.8581
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1425/2000], Score: 1301, Length: 6, Score avg: 642.3207
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1426/2000], Score: 1301, Length: 6, Score avg: 642.7826
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1427/2000], Score: 1301, Length: 6, Score avg: 643.2439
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1428/2000], Score: 1301, Length: 6, Score avg: 643.7045
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1429/2000], Score: 1301, Length: 6, Score avg: 644.1645
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1430/2000], Score: 1301, Length: 6, Score avg: 644.6238
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1431/2000], Score: 1301, Length: 6, Score avg: 645.0825
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1432/2000], Score: 1301, Length: 6, Score avg: 645.5405
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1433/2000], Score: 1301, Length: 6, Score avg: 645.9979
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1434/2000], Score: 1301, Length: 6, Score avg: 646.4547
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1435/2000], Score: 1301, Length: 6, Score avg: 646.9108
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1436/2000], Score: 1301, Length: 6, Score avg: 647.3663
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1437/2000], Score: 1301, Length: 6, Score avg: 647.8212
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1438/2000], Score: 1301, Length: 6, Score avg: 648.2754
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1439/2000], Score: 1301, Length: 6, Score avg: 648.7290
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1440/2000], Score: 1301, Length: 6, Score avg: 649.1819
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1441/2000], Score: 1301, Length: 6, Score avg: 649.6343
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1442/2000], Score: 1301, Length: 6, Score avg: 650.0860
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1443/2000], Score: 1301, Length: 6, Score avg: 650.5371
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1444/2000], Score: 1301, Length: 6, Score avg: 650.9875
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1445/2000], Score: 1301, Length: 6, Score avg: 651.4374
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1446/2000], Score: 1301, Length: 6, Score avg: 651.8866
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1447/2000], Score: 1301, Length: 6, Score avg: 652.3352
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1448/2000], Score: 1301, Length: 6, Score avg: 652.7831
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1449/2000], Score: 1301, Length: 6, Score avg: 653.2305
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1450/2000], Score: 1301, Length: 6, Score avg: 653.6772
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1451/2000], Score: 1301, Length: 6, Score avg: 654.1234
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1452/2000], Score: 1301, Length: 6, Score avg: 654.5689
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1453/2000], Score: 1301, Length: 6, Score avg: 655.0138
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1454/2000], Score: 1301, Length: 6, Score avg: 655.4580
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1455/2000], Score: 1301, Length: 6, Score avg: 655.9017
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1456/2000], Score: 1301, Length: 6, Score avg: 656.3448
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1457/2000], Score: 1301, Length: 6, Score avg: 656.7872
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1458/2000], Score: 1301, Length: 6, Score avg: 657.2291
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1459/2000], Score: 1301, Length: 6, Score avg: 657.6703
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1460/2000], Score: 1301, Length: 6, Score avg: 658.1110
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1461/2000], Score: 1301, Length: 6, Score avg: 658.5510
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1462/2000], Score: 1301, Length: 6, Score avg: 658.9904
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1463/2000], Score: 1301, Length: 6, Score avg: 659.4293
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1464/2000], Score: 1301, Length: 6, Score avg: 659.8675
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1465/2000], Score: 1301, Length: 6, Score avg: 660.3051
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1466/2000], Score: 1301, Length: 6, Score avg: 660.7422
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1467/2000], Score: 1301, Length: 6, Score avg: 661.1786
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1468/2000], Score: 1301, Length: 6, Score avg: 661.6144
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1469/2000], Score: 1301, Length: 6, Score avg: 662.0497
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1470/2000], Score: 1301, Length: 6, Score avg: 662.4844
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1471/2000], Score: 1301, Length: 6, Score avg: 662.9184
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1472/2000], Score: 1301, Length: 6, Score avg: 663.3519
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1473/2000], Score: 1301, Length: 6, Score avg: 663.7848
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1474/2000], Score: 1301, Length: 6, Score avg: 664.2171
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1475/2000], Score: 1301, Length: 6, Score avg: 664.6488
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1476/2000], Score: 1301, Length: 6, Score avg: 665.0799
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1477/2000], Score: 1301, Length: 6, Score avg: 665.5105
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1478/2000], Score: 1301, Length: 6, Score avg: 665.9405
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1479/2000], Score: 1301, Length: 6, Score avg: 666.3698
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1480/2000], Score: 1301, Length: 6, Score avg: 666.7986
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1481/2000], Score: 1301, Length: 6, Score avg: 667.2269
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1482/2000], Score: 1301, Length: 6, Score avg: 667.6545
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1483/2000], Score: 1301, Length: 6, Score avg: 668.0816
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1484/2000], Score: 1301, Length: 6, Score avg: 668.5081
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1485/2000], Score: 1301, Length: 6, Score avg: 668.9340
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1486/2000], Score: 1301, Length: 6, Score avg: 669.3594
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1487/2000], Score: 1301, Length: 6, Score avg: 669.7841
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1488/2000], Score: 1301, Length: 6, Score avg: 670.2083
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1489/2000], Score: 1301, Length: 6, Score avg: 670.6320
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1490/2000], Score: 1301, Length: 6, Score avg: 671.0550
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1491/2000], Score: 1301, Length: 6, Score avg: 671.4775
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1492/2000], Score: 1301, Length: 6, Score avg: 671.8995
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1493/2000], Score: 1301, Length: 6, Score avg: 672.3208
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1494/2000], Score: 1301, Length: 6, Score avg: 672.7416
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1495/2000], Score: 1301, Length: 6, Score avg: 673.1619
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1496/2000], Score: 1301, Length: 6, Score avg: 673.5816
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1497/2000], Score: 1301, Length: 6, Score avg: 674.0007
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1498/2000], Score: 1301, Length: 6, Score avg: 674.4192
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1499/2000], Score: 1301, Length: 6, Score avg: 674.8372
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1500/2000], Score: 1301, Length: 6, Score avg: 675.2547
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1501/2000], Score: 1301, Length: 6, Score avg: 675.6716
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1502/2000], Score: 1301, Length: 6, Score avg: 676.0879
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1503/2000], Score: 1301, Length: 6, Score avg: 676.5037
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1504/2000], Score: 1301, Length: 6, Score avg: 676.9189
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1505/2000], Score: 1301, Length: 6, Score avg: 677.3336
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1506/2000], Score: 1301, Length: 6, Score avg: 677.7477
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1507/2000], Score: 1301, Length: 6, Score avg: 678.1612
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1508/2000], Score: 1301, Length: 6, Score avg: 678.5743
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1509/2000], Score: 1301, Length: 6, Score avg: 678.9867
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1510/2000], Score: 1301, Length: 6, Score avg: 679.3987
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1511/2000], Score: 1301, Length: 6, Score avg: 679.8101
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1512/2000], Score: 1301, Length: 6, Score avg: 680.2209
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1513/2000], Score: 1301, Length: 6, Score avg: 680.6312
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1514/2000], Score: 1301, Length: 6, Score avg: 681.0410
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1515/2000], Score: 1301, Length: 6, Score avg: 681.4502
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1516/2000], Score: 1301, Length: 6, Score avg: 681.8588
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1517/2000], Score: 1301, Length: 6, Score avg: 682.2670
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1518/2000], Score: 1301, Length: 6, Score avg: 682.6746
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1519/2000], Score: 1301, Length: 6, Score avg: 683.0816
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1520/2000], Score: 1301, Length: 6, Score avg: 683.4882
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1521/2000], Score: 1301, Length: 6, Score avg: 683.8941
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1522/2000], Score: 1301, Length: 6, Score avg: 684.2996
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1523/2000], Score: 1301, Length: 6, Score avg: 684.7045
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1524/2000], Score: 1301, Length: 6, Score avg: 685.1089
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1525/2000], Score: 1301, Length: 6, Score avg: 685.5128
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1526/2000], Score: 1301, Length: 6, Score avg: 685.9161
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1527/2000], Score: 1301, Length: 6, Score avg: 686.3189
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1528/2000], Score: 1301, Length: 6, Score avg: 686.7212
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1529/2000], Score: 1301, Length: 6, Score avg: 687.1230
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1530/2000], Score: 1301, Length: 6, Score avg: 687.5242
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1531/2000], Score: 1301, Length: 6, Score avg: 687.9249
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1532/2000], Score: 1301, Length: 6, Score avg: 688.3251
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1533/2000], Score: 1301, Length: 6, Score avg: 688.7247
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1534/2000], Score: 1301, Length: 6, Score avg: 689.1239
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1535/2000], Score: 1301, Length: 6, Score avg: 689.5225
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1536/2000], Score: 1301, Length: 6, Score avg: 689.9206
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1537/2000], Score: 1301, Length: 6, Score avg: 690.3182
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1538/2000], Score: 1301, Length: 6, Score avg: 690.7152
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1539/2000], Score: 1301, Length: 6, Score avg: 691.1118
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1540/2000], Score: 1301, Length: 6, Score avg: 691.5078
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1541/2000], Score: 1301, Length: 6, Score avg: 691.9033
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1542/2000], Score: 1301, Length: 6, Score avg: 692.2983
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1543/2000], Score: 1301, Length: 6, Score avg: 692.6928
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1544/2000], Score: 1301, Length: 6, Score avg: 693.0868
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1545/2000], Score: 1301, Length: 6, Score avg: 693.4803
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1546/2000], Score: 1301, Length: 6, Score avg: 693.8732
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1547/2000], Score: 1301, Length: 6, Score avg: 694.2657
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1548/2000], Score: 1301, Length: 6, Score avg: 694.6576
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1549/2000], Score: 1301, Length: 6, Score avg: 695.0491
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1550/2000], Score: 1301, Length: 6, Score avg: 695.4400
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1551/2000], Score: 1301, Length: 6, Score avg: 695.8304
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1552/2000], Score: 1301, Length: 6, Score avg: 696.2204
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1553/2000], Score: 1301, Length: 6, Score avg: 696.6098
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1554/2000], Score: 1301, Length: 6, Score avg: 696.9987
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1555/2000], Score: 1301, Length: 6, Score avg: 697.3871
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1556/2000], Score: 1301, Length: 6, Score avg: 697.7751
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1557/2000], Score: 1301, Length: 6, Score avg: 698.1625
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1558/2000], Score: 1301, Length: 6, Score avg: 698.5494
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1559/2000], Score: 1301, Length: 6, Score avg: 698.9359
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1560/2000], Score: 1301, Length: 6, Score avg: 699.3218
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1561/2000], Score: 1301, Length: 6, Score avg: 699.7072
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1562/2000], Score: 1301, Length: 6, Score avg: 700.0922
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1563/2000], Score: 1301, Length: 6, Score avg: 700.4766
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1564/2000], Score: 1301, Length: 6, Score avg: 700.8606
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1565/2000], Score: 1301, Length: 6, Score avg: 701.2441
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1566/2000], Score: 1301, Length: 6, Score avg: 701.6271
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1567/2000], Score: 1301, Length: 6, Score avg: 702.0096
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1568/2000], Score: 1301, Length: 6, Score avg: 702.3916
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1569/2000], Score: 1301, Length: 6, Score avg: 702.7731
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1570/2000], Score: 1301, Length: 6, Score avg: 703.1541
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1571/2000], Score: 1301, Length: 6, Score avg: 703.5347
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1572/2000], Score: 1301, Length: 6, Score avg: 703.9148
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1573/2000], Score: 1301, Length: 6, Score avg: 704.2943
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1574/2000], Score: 1301, Length: 6, Score avg: 704.6734
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1575/2000], Score: 1301, Length: 6, Score avg: 705.0521
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1576/2000], Score: 1301, Length: 6, Score avg: 705.4302
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1577/2000], Score: 1301, Length: 6, Score avg: 705.8079
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1578/2000], Score: 1301, Length: 6, Score avg: 706.1850
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1579/2000], Score: 1301, Length: 6, Score avg: 706.5617
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1580/2000], Score: 1301, Length: 6, Score avg: 706.9380
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1581/2000], Score: 1301, Length: 6, Score avg: 707.3137
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1582/2000], Score: 1301, Length: 6, Score avg: 707.6890
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1583/2000], Score: 1301, Length: 6, Score avg: 708.0638
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1584/2000], Score: 1301, Length: 6, Score avg: 708.4381
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1585/2000], Score: 1301, Length: 6, Score avg: 708.8120
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1586/2000], Score: 1301, Length: 6, Score avg: 709.1854
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1587/2000], Score: 1301, Length: 6, Score avg: 709.5583
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1588/2000], Score: 1301, Length: 6, Score avg: 709.9307
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1589/2000], Score: 1301, Length: 6, Score avg: 710.3027
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1590/2000], Score: 1301, Length: 6, Score avg: 710.6742
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1591/2000], Score: 1301, Length: 6, Score avg: 711.0453
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1592/2000], Score: 1301, Length: 6, Score avg: 711.4158
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1593/2000], Score: 1301, Length: 6, Score avg: 711.7859
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1594/2000], Score: 1301, Length: 6, Score avg: 712.1556
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1595/2000], Score: 1301, Length: 6, Score avg: 712.5248
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1596/2000], Score: 1301, Length: 6, Score avg: 712.8935
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1597/2000], Score: 1301, Length: 6, Score avg: 713.2617
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1598/2000], Score: 1301, Length: 6, Score avg: 713.6295
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1599/2000], Score: 1301, Length: 6, Score avg: 713.9969
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1600/2000], Score: 1301, Length: 6, Score avg: 714.3637
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1601/2000], Score: 1301, Length: 6, Score avg: 714.7302
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1602/2000], Score: 1301, Length: 6, Score avg: 715.0961
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1603/2000], Score: 1301, Length: 6, Score avg: 715.4616
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1604/2000], Score: 1301, Length: 6, Score avg: 715.8267
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1605/2000], Score: 1301, Length: 6, Score avg: 716.1913
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1606/2000], Score: 1301, Length: 6, Score avg: 716.5554
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1607/2000], Score: 1301, Length: 6, Score avg: 716.9191
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1608/2000], Score: 1301, Length: 6, Score avg: 717.2823
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1609/2000], Score: 1301, Length: 6, Score avg: 717.6451
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1610/2000], Score: 1301, Length: 6, Score avg: 718.0075
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1611/2000], Score: 1301, Length: 6, Score avg: 718.3693
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1612/2000], Score: 1301, Length: 6, Score avg: 718.7308
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1613/2000], Score: 1301, Length: 6, Score avg: 719.0918
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1614/2000], Score: 1301, Length: 6, Score avg: 719.4523
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1615/2000], Score: 1301, Length: 6, Score avg: 719.8124
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1616/2000], Score: 1301, Length: 6, Score avg: 720.1720
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1617/2000], Score: 1301, Length: 6, Score avg: 720.5312
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1618/2000], Score: 1301, Length: 6, Score avg: 720.8900
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1619/2000], Score: 1301, Length: 6, Score avg: 721.2483
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1620/2000], Score: 1301, Length: 6, Score avg: 721.6062
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1621/2000], Score: 1301, Length: 6, Score avg: 721.9636
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1622/2000], Score: 1301, Length: 6, Score avg: 722.3206
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1623/2000], Score: 1301, Length: 6, Score avg: 722.6771
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1624/2000], Score: 1301, Length: 6, Score avg: 723.0333
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1625/2000], Score: 1301, Length: 6, Score avg: 723.3889
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1626/2000], Score: 1301, Length: 6, Score avg: 723.7442
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1627/2000], Score: 1301, Length: 6, Score avg: 724.0990
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1628/2000], Score: 1301, Length: 6, Score avg: 724.4533
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1629/2000], Score: 1301, Length: 6, Score avg: 724.8072
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1630/2000], Score: 1301, Length: 6, Score avg: 725.1607
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1631/2000], Score: 1301, Length: 6, Score avg: 725.5138
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1632/2000], Score: 1301, Length: 6, Score avg: 725.8664
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1633/2000], Score: 1301, Length: 6, Score avg: 726.2186
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1634/2000], Score: 1301, Length: 6, Score avg: 726.5704
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1635/2000], Score: 1301, Length: 6, Score avg: 726.9217
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1636/2000], Score: 1301, Length: 6, Score avg: 727.2726
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1637/2000], Score: 1301, Length: 6, Score avg: 727.6231
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1638/2000], Score: 1301, Length: 6, Score avg: 727.9731
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1639/2000], Score: 1301, Length: 6, Score avg: 728.3228
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1640/2000], Score: 1301, Length: 6, Score avg: 728.6720
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1641/2000], Score: 1301, Length: 6, Score avg: 729.0207
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1642/2000], Score: 1301, Length: 6, Score avg: 729.3691
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1643/2000], Score: 1301, Length: 6, Score avg: 729.7170
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1644/2000], Score: 1301, Length: 6, Score avg: 730.0645
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1645/2000], Score: 1301, Length: 6, Score avg: 730.4116
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1646/2000], Score: 1301, Length: 6, Score avg: 730.7582
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1647/2000], Score: 1301, Length: 6, Score avg: 731.1044
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1648/2000], Score: 1301, Length: 6, Score avg: 731.4502
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1649/2000], Score: 1301, Length: 6, Score avg: 731.7956
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1650/2000], Score: 1301, Length: 6, Score avg: 732.1406
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1651/2000], Score: 1301, Length: 6, Score avg: 732.4852
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1652/2000], Score: 1301, Length: 6, Score avg: 732.8293
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1653/2000], Score: 1301, Length: 6, Score avg: 733.1730
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1654/2000], Score: 1301, Length: 6, Score avg: 733.5163
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1655/2000], Score: 1301, Length: 6, Score avg: 733.8592
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1656/2000], Score: 1301, Length: 6, Score avg: 734.2017
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1657/2000], Score: 1301, Length: 6, Score avg: 734.5438
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1658/2000], Score: 1301, Length: 6, Score avg: 734.8854
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1659/2000], Score: 1301, Length: 6, Score avg: 735.2266
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1660/2000], Score: 1301, Length: 6, Score avg: 735.5675
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1661/2000], Score: 1301, Length: 6, Score avg: 735.9079
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1662/2000], Score: 1301, Length: 6, Score avg: 736.2479
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1663/2000], Score: 1301, Length: 6, Score avg: 736.5875
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1664/2000], Score: 1301, Length: 6, Score avg: 736.9267
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1665/2000], Score: 1301, Length: 6, Score avg: 737.2655
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1666/2000], Score: 1301, Length: 6, Score avg: 737.6038
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1667/2000], Score: 1301, Length: 6, Score avg: 737.9418
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1668/2000], Score: 1301, Length: 6, Score avg: 738.2794
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1669/2000], Score: 1301, Length: 6, Score avg: 738.6165
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1670/2000], Score: 1301, Length: 6, Score avg: 738.9533
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1671/2000], Score: 1301, Length: 6, Score avg: 739.2896
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1672/2000], Score: 1301, Length: 6, Score avg: 739.6256
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1673/2000], Score: 1301, Length: 6, Score avg: 739.9611
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1674/2000], Score: 1301, Length: 6, Score avg: 740.2963
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1675/2000], Score: 1301, Length: 6, Score avg: 740.6310
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1676/2000], Score: 1301, Length: 6, Score avg: 740.9654
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1677/2000], Score: 1301, Length: 6, Score avg: 741.2993
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1678/2000], Score: 1301, Length: 6, Score avg: 741.6329
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1679/2000], Score: 1301, Length: 6, Score avg: 741.9661
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1680/2000], Score: 1301, Length: 6, Score avg: 742.2988
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1681/2000], Score: 1301, Length: 6, Score avg: 742.6312
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1682/2000], Score: 1301, Length: 6, Score avg: 742.9631
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1683/2000], Score: 1301, Length: 6, Score avg: 743.2947
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1684/2000], Score: 1301, Length: 6, Score avg: 743.6259
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1685/2000], Score: 1301, Length: 6, Score avg: 743.9567
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1686/2000], Score: 1301, Length: 6, Score avg: 744.2871
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1687/2000], Score: 1301, Length: 6, Score avg: 744.6171
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1688/2000], Score: 1301, Length: 6, Score avg: 744.9467
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1689/2000], Score: 1301, Length: 6, Score avg: 745.2759
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1690/2000], Score: 1301, Length: 6, Score avg: 745.6047
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1691/2000], Score: 1301, Length: 6, Score avg: 745.9332
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1692/2000], Score: 1301, Length: 6, Score avg: 746.2612
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1693/2000], Score: 1301, Length: 6, Score avg: 746.5889
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1694/2000], Score: 1301, Length: 6, Score avg: 746.9162
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1695/2000], Score: 1301, Length: 6, Score avg: 747.2431
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1696/2000], Score: 1301, Length: 6, Score avg: 747.5696
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1697/2000], Score: 1301, Length: 6, Score avg: 747.8957
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1698/2000], Score: 1301, Length: 6, Score avg: 748.2214
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1699/2000], Score: 1301, Length: 6, Score avg: 748.5468
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1700/2000], Score: 1301, Length: 6, Score avg: 748.8718
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1701/2000], Score: 1301, Length: 6, Score avg: 749.1964
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1702/2000], Score: 1301, Length: 6, Score avg: 749.5206
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1703/2000], Score: 1301, Length: 6, Score avg: 749.8444
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1704/2000], Score: 1301, Length: 6, Score avg: 750.1678
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1705/2000], Score: 1301, Length: 6, Score avg: 750.4909
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1706/2000], Score: 1301, Length: 6, Score avg: 750.8136
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1707/2000], Score: 1301, Length: 6, Score avg: 751.1359
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1708/2000], Score: 1301, Length: 6, Score avg: 751.4578
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1709/2000], Score: 1301, Length: 6, Score avg: 751.7794
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1710/2000], Score: 1301, Length: 6, Score avg: 752.1006
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1711/2000], Score: 1301, Length: 6, Score avg: 752.4214
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1712/2000], Score: 1301, Length: 6, Score avg: 752.7418
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1713/2000], Score: 1301, Length: 6, Score avg: 753.0619
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1714/2000], Score: 1301, Length: 6, Score avg: 753.3816
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1715/2000], Score: 1301, Length: 6, Score avg: 753.7009
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1716/2000], Score: 1301, Length: 6, Score avg: 754.0198
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1717/2000], Score: 1301, Length: 6, Score avg: 754.3384
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1718/2000], Score: 1301, Length: 6, Score avg: 754.6566
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1719/2000], Score: 1301, Length: 6, Score avg: 754.9744
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1720/2000], Score: 1301, Length: 6, Score avg: 755.2919
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1721/2000], Score: 1301, Length: 6, Score avg: 755.6089
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1722/2000], Score: 1301, Length: 6, Score avg: 755.9257
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1723/2000], Score: 1301, Length: 6, Score avg: 756.2420
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1724/2000], Score: 1301, Length: 6, Score avg: 756.5580
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1725/2000], Score: 1301, Length: 6, Score avg: 756.8736
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1726/2000], Score: 1301, Length: 6, Score avg: 757.1889
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1727/2000], Score: 1301, Length: 6, Score avg: 757.5038
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1728/2000], Score: 1301, Length: 6, Score avg: 757.8183
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1729/2000], Score: 1301, Length: 6, Score avg: 758.1324
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1730/2000], Score: 1301, Length: 6, Score avg: 758.4462
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1731/2000], Score: 1301, Length: 6, Score avg: 758.7597
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1732/2000], Score: 1301, Length: 6, Score avg: 759.0727
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1733/2000], Score: 1301, Length: 6, Score avg: 759.3855
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1734/2000], Score: 1301, Length: 6, Score avg: 759.6978
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1735/2000], Score: 1301, Length: 6, Score avg: 760.0098
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1736/2000], Score: 1301, Length: 6, Score avg: 760.3214
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1737/2000], Score: 1301, Length: 6, Score avg: 760.6327
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1738/2000], Score: 1301, Length: 6, Score avg: 760.9436
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1739/2000], Score: 1301, Length: 6, Score avg: 761.2542
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1740/2000], Score: 1301, Length: 6, Score avg: 761.5644
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1741/2000], Score: 1301, Length: 6, Score avg: 761.8742
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1742/2000], Score: 1301, Length: 6, Score avg: 762.1837
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1743/2000], Score: 1301, Length: 6, Score avg: 762.4928
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1744/2000], Score: 1301, Length: 6, Score avg: 762.8016
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1745/2000], Score: 1301, Length: 6, Score avg: 763.1100
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1746/2000], Score: 1301, Length: 6, Score avg: 763.4181
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1747/2000], Score: 1301, Length: 6, Score avg: 763.7258
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1748/2000], Score: 1301, Length: 6, Score avg: 764.0332
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1749/2000], Score: 1301, Length: 6, Score avg: 764.3402
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1750/2000], Score: 1301, Length: 6, Score avg: 764.6469
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1751/2000], Score: 1301, Length: 6, Score avg: 764.9532
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1752/2000], Score: 1301, Length: 6, Score avg: 765.2591
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1753/2000], Score: 1301, Length: 6, Score avg: 765.5647
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1754/2000], Score: 1301, Length: 6, Score avg: 765.8700
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1755/2000], Score: 1301, Length: 6, Score avg: 766.1749
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1756/2000], Score: 1301, Length: 6, Score avg: 766.4795
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1757/2000], Score: 1301, Length: 6, Score avg: 766.7837
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1758/2000], Score: 1301, Length: 6, Score avg: 767.0876
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1759/2000], Score: 1301, Length: 6, Score avg: 767.3911
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1760/2000], Score: 1301, Length: 6, Score avg: 767.6943
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1761/2000], Score: 1301, Length: 6, Score avg: 767.9972
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1762/2000], Score: 1301, Length: 6, Score avg: 768.2997
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1763/2000], Score: 1301, Length: 6, Score avg: 768.6018
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1764/2000], Score: 1301, Length: 6, Score avg: 768.9036
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1765/2000], Score: 1301, Length: 6, Score avg: 769.2051
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1766/2000], Score: 1301, Length: 6, Score avg: 769.5062
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1767/2000], Score: 1301, Length: 6, Score avg: 769.8070
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1768/2000], Score: 1301, Length: 6, Score avg: 770.1075
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1769/2000], Score: 1301, Length: 6, Score avg: 770.4076
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1770/2000], Score: 1301, Length: 6, Score avg: 770.7073
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1771/2000], Score: 1301, Length: 6, Score avg: 771.0068
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1772/2000], Score: 1301, Length: 6, Score avg: 771.3059
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1773/2000], Score: 1301, Length: 6, Score avg: 771.6046
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1774/2000], Score: 1301, Length: 6, Score avg: 771.9030
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1775/2000], Score: 1301, Length: 6, Score avg: 772.2011
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1776/2000], Score: 1301, Length: 6, Score avg: 772.4989
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1777/2000], Score: 1301, Length: 6, Score avg: 772.7963
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1778/2000], Score: 1301, Length: 6, Score avg: 773.0934
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1779/2000], Score: 1301, Length: 6, Score avg: 773.3901
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1780/2000], Score: 1301, Length: 6, Score avg: 773.6865
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1781/2000], Score: 1301, Length: 6, Score avg: 773.9826
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1782/2000], Score: 1301, Length: 6, Score avg: 774.2783
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1783/2000], Score: 1301, Length: 6, Score avg: 774.5738
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1784/2000], Score: 1301, Length: 6, Score avg: 774.8688
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1785/2000], Score: 1301, Length: 6, Score avg: 775.1636
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1786/2000], Score: 1301, Length: 6, Score avg: 775.4580
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1787/2000], Score: 1301, Length: 6, Score avg: 775.7521
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1788/2000], Score: 1301, Length: 6, Score avg: 776.0459
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1789/2000], Score: 1301, Length: 6, Score avg: 776.3393
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1790/2000], Score: 1301, Length: 6, Score avg: 776.6324
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1791/2000], Score: 1301, Length: 6, Score avg: 776.9252
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1792/2000], Score: 1301, Length: 6, Score avg: 777.2176
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1793/2000], Score: 1301, Length: 6, Score avg: 777.5098
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1794/2000], Score: 1301, Length: 6, Score avg: 777.8016
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1795/2000], Score: 1301, Length: 6, Score avg: 778.0930
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1796/2000], Score: 1301, Length: 6, Score avg: 778.3842
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1797/2000], Score: 1301, Length: 6, Score avg: 778.6750
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1798/2000], Score: 1301, Length: 6, Score avg: 778.9655
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1799/2000], Score: 1301, Length: 6, Score avg: 779.2557
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1800/2000], Score: 1301, Length: 6, Score avg: 779.5456
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1801/2000], Score: 1301, Length: 6, Score avg: 779.8351
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1802/2000], Score: 1301, Length: 6, Score avg: 780.1243
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1803/2000], Score: 1301, Length: 6, Score avg: 780.4132
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1804/2000], Score: 1301, Length: 6, Score avg: 780.7018
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1805/2000], Score: 1301, Length: 6, Score avg: 780.9900
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1806/2000], Score: 1301, Length: 6, Score avg: 781.2780
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1807/2000], Score: 1301, Length: 6, Score avg: 781.5656
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1808/2000], Score: 1301, Length: 6, Score avg: 781.8529
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1809/2000], Score: 1301, Length: 6, Score avg: 782.1399
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1810/2000], Score: 1301, Length: 6, Score avg: 782.4265
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1811/2000], Score: 1301, Length: 6, Score avg: 782.7129
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1812/2000], Score: 1301, Length: 6, Score avg: 782.9989
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1813/2000], Score: 1301, Length: 6, Score avg: 783.2846
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1814/2000], Score: 1301, Length: 6, Score avg: 783.5700
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1815/2000], Score: 1301, Length: 6, Score avg: 783.8551
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1816/2000], Score: 1301, Length: 6, Score avg: 784.1399
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1817/2000], Score: 1301, Length: 6, Score avg: 784.4243
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1818/2000], Score: 1301, Length: 6, Score avg: 784.7085
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1819/2000], Score: 1301, Length: 6, Score avg: 784.9923
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1820/2000], Score: 1301, Length: 6, Score avg: 785.2758
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1821/2000], Score: 1301, Length: 6, Score avg: 785.5590
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1822/2000], Score: 1301, Length: 6, Score avg: 785.8419
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1823/2000], Score: 1301, Length: 6, Score avg: 786.1245
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1824/2000], Score: 1301, Length: 6, Score avg: 786.4068
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1825/2000], Score: 1301, Length: 6, Score avg: 786.6888
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1826/2000], Score: 1301, Length: 6, Score avg: 786.9704
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1827/2000], Score: 1301, Length: 6, Score avg: 787.2518
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1828/2000], Score: 1301, Length: 6, Score avg: 787.5328
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1829/2000], Score: 1301, Length: 6, Score avg: 787.8136
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1830/2000], Score: 1301, Length: 6, Score avg: 788.0940
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1831/2000], Score: 1301, Length: 6, Score avg: 788.3741
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1832/2000], Score: 1301, Length: 6, Score avg: 788.6539
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1833/2000], Score: 1301, Length: 6, Score avg: 788.9334
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1834/2000], Score: 1301, Length: 6, Score avg: 789.2126
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1835/2000], Score: 1301, Length: 6, Score avg: 789.4916
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1836/2000], Score: 1301, Length: 6, Score avg: 789.7702
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1837/2000], Score: 1301, Length: 6, Score avg: 790.0484
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1838/2000], Score: 1301, Length: 6, Score avg: 790.3264
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1839/2000], Score: 1301, Length: 6, Score avg: 790.6041
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1840/2000], Score: 1301, Length: 6, Score avg: 790.8815
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1841/2000], Score: 1301, Length: 6, Score avg: 791.1586
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1842/2000], Score: 1301, Length: 6, Score avg: 791.4354
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1843/2000], Score: 1301, Length: 6, Score avg: 791.7119
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1844/2000], Score: 1301, Length: 6, Score avg: 791.9881
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1845/2000], Score: 1301, Length: 6, Score avg: 792.2640
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1846/2000], Score: 1301, Length: 6, Score avg: 792.5395
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1847/2000], Score: 1301, Length: 6, Score avg: 792.8148
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1848/2000], Score: 1301, Length: 6, Score avg: 793.0898
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1849/2000], Score: 1301, Length: 6, Score avg: 793.3645
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1850/2000], Score: 1301, Length: 6, Score avg: 793.6389
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1851/2000], Score: 1301, Length: 6, Score avg: 793.9130
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1852/2000], Score: 1301, Length: 6, Score avg: 794.1868
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1853/2000], Score: 1301, Length: 6, Score avg: 794.4603
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1854/2000], Score: 1301, Length: 6, Score avg: 794.7335
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1855/2000], Score: 1301, Length: 6, Score avg: 795.0065
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1856/2000], Score: 1301, Length: 6, Score avg: 795.2791
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1857/2000], Score: 1301, Length: 6, Score avg: 795.5514
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1858/2000], Score: 1301, Length: 6, Score avg: 795.8235
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1859/2000], Score: 1301, Length: 6, Score avg: 796.0952
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1860/2000], Score: 1301, Length: 6, Score avg: 796.3667
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1861/2000], Score: 1301, Length: 6, Score avg: 796.6378
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1862/2000], Score: 1301, Length: 6, Score avg: 796.9087
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1863/2000], Score: 1301, Length: 6, Score avg: 797.1793
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1864/2000], Score: 1301, Length: 6, Score avg: 797.4496
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1865/2000], Score: 1301, Length: 6, Score avg: 797.7196
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1866/2000], Score: 1301, Length: 6, Score avg: 797.9893
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1867/2000], Score: 1301, Length: 6, Score avg: 798.2587
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1868/2000], Score: 1301, Length: 6, Score avg: 798.5278
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1869/2000], Score: 1301, Length: 6, Score avg: 798.7967
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1870/2000], Score: 1301, Length: 6, Score avg: 799.0652
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1871/2000], Score: 1301, Length: 6, Score avg: 799.3335
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1872/2000], Score: 1301, Length: 6, Score avg: 799.6015
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1873/2000], Score: 1301, Length: 6, Score avg: 799.8692
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1874/2000], Score: 1301, Length: 6, Score avg: 800.1366
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1875/2000], Score: 1301, Length: 6, Score avg: 800.4037
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1876/2000], Score: 1301, Length: 6, Score avg: 800.6706
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1877/2000], Score: 1301, Length: 6, Score avg: 800.9371
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1878/2000], Score: 1301, Length: 6, Score avg: 801.2034
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1879/2000], Score: 1301, Length: 6, Score avg: 801.4694
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1880/2000], Score: 1301, Length: 6, Score avg: 801.7351
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1881/2000], Score: 1301, Length: 6, Score avg: 802.0005
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1882/2000], Score: 1301, Length: 6, Score avg: 802.2657
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1883/2000], Score: 1301, Length: 6, Score avg: 802.5305
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1884/2000], Score: 1301, Length: 6, Score avg: 802.7951
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1885/2000], Score: 1301, Length: 6, Score avg: 803.0594
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1886/2000], Score: 1301, Length: 6, Score avg: 803.3234
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1887/2000], Score: 1301, Length: 6, Score avg: 803.5872
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1888/2000], Score: 1301, Length: 6, Score avg: 803.8506
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1889/2000], Score: 1301, Length: 6, Score avg: 804.1138
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1890/2000], Score: 1301, Length: 6, Score avg: 804.3767
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1891/2000], Score: 1301, Length: 6, Score avg: 804.6393
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1892/2000], Score: 1301, Length: 6, Score avg: 804.9017
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1893/2000], Score: 1301, Length: 6, Score avg: 805.1638
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1894/2000], Score: 1301, Length: 6, Score avg: 805.4256
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1895/2000], Score: 1301, Length: 6, Score avg: 805.6871
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1896/2000], Score: 1301, Length: 6, Score avg: 805.9483
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1897/2000], Score: 1301, Length: 6, Score avg: 806.2093
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1898/2000], Score: 1301, Length: 6, Score avg: 806.4700
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1899/2000], Score: 1301, Length: 6, Score avg: 806.7304
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1900/2000], Score: 1301, Length: 6, Score avg: 806.9905
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1901/2000], Score: 1301, Length: 6, Score avg: 807.2504
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1902/2000], Score: 1301, Length: 6, Score avg: 807.5100
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1903/2000], Score: 1301, Length: 6, Score avg: 807.7693
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1904/2000], Score: 1301, Length: 6, Score avg: 808.0284
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1905/2000], Score: 1301, Length: 6, Score avg: 808.2871
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1906/2000], Score: 1301, Length: 6, Score avg: 808.5456
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1907/2000], Score: 1301, Length: 6, Score avg: 808.8039
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1908/2000], Score: 1301, Length: 6, Score avg: 809.0618
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1909/2000], Score: 1301, Length: 6, Score avg: 809.3195
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1910/2000], Score: 1301, Length: 6, Score avg: 809.5770
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1911/2000], Score: 1301, Length: 6, Score avg: 809.8341
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1912/2000], Score: 1301, Length: 6, Score avg: 810.0910
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1913/2000], Score: 1301, Length: 6, Score avg: 810.3476
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1914/2000], Score: 1301, Length: 6, Score avg: 810.6040
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1915/2000], Score: 1301, Length: 6, Score avg: 810.8601
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1916/2000], Score: 1301, Length: 6, Score avg: 811.1159
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1917/2000], Score: 1301, Length: 6, Score avg: 811.3714
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1918/2000], Score: 1301, Length: 6, Score avg: 811.6267
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1919/2000], Score: 1301, Length: 6, Score avg: 811.8817
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1920/2000], Score: 1301, Length: 6, Score avg: 812.1365
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1921/2000], Score: 1301, Length: 6, Score avg: 812.3909
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1922/2000], Score: 1301, Length: 6, Score avg: 812.6452
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1923/2000], Score: 1301, Length: 6, Score avg: 812.8991
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1924/2000], Score: 1301, Length: 6, Score avg: 813.1528
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1925/2000], Score: 1301, Length: 6, Score avg: 813.4062
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1926/2000], Score: 1301, Length: 6, Score avg: 813.6594
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1927/2000], Score: 1301, Length: 6, Score avg: 813.9123
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1928/2000], Score: 1301, Length: 6, Score avg: 814.1649
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1929/2000], Score: 1301, Length: 6, Score avg: 814.4173
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1930/2000], Score: 1301, Length: 6, Score avg: 814.6694
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1931/2000], Score: 1301, Length: 6, Score avg: 814.9213
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1932/2000], Score: 1301, Length: 6, Score avg: 815.1729
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1933/2000], Score: 1301, Length: 6, Score avg: 815.4242
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1934/2000], Score: 1301, Length: 6, Score avg: 815.6753
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1935/2000], Score: 1301, Length: 6, Score avg: 815.9261
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1936/2000], Score: 1301, Length: 6, Score avg: 816.1767
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1937/2000], Score: 1301, Length: 6, Score avg: 816.4269
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1938/2000], Score: 1301, Length: 6, Score avg: 816.6770
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1939/2000], Score: 1301, Length: 6, Score avg: 816.9268
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1940/2000], Score: 1301, Length: 6, Score avg: 817.1763
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1941/2000], Score: 1301, Length: 6, Score avg: 817.4256
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1942/2000], Score: 1301, Length: 6, Score avg: 817.6746
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1943/2000], Score: 1301, Length: 6, Score avg: 817.9233
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1944/2000], Score: 1301, Length: 6, Score avg: 818.1718
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1945/2000], Score: 1301, Length: 6, Score avg: 818.4201
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1946/2000], Score: 1301, Length: 6, Score avg: 818.6680
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1947/2000], Score: 1301, Length: 6, Score avg: 818.9158
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1948/2000], Score: 1301, Length: 6, Score avg: 819.1632
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1949/2000], Score: 1301, Length: 6, Score avg: 819.4105
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1950/2000], Score: 1301, Length: 6, Score avg: 819.6574
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1951/2000], Score: 1301, Length: 6, Score avg: 819.9042
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1952/2000], Score: 1301, Length: 6, Score avg: 820.1506
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1953/2000], Score: 1301, Length: 6, Score avg: 820.3968
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1954/2000], Score: 1301, Length: 6, Score avg: 820.6428
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1955/2000], Score: 1301, Length: 6, Score avg: 820.8885
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1956/2000], Score: 1301, Length: 6, Score avg: 821.1339
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1957/2000], Score: 1301, Length: 6, Score avg: 821.3792
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1958/2000], Score: 1301, Length: 6, Score avg: 821.6241
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1959/2000], Score: 1301, Length: 6, Score avg: 821.8688
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1960/2000], Score: 1301, Length: 6, Score avg: 822.1133
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1961/2000], Score: 1301, Length: 6, Score avg: 822.3575
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1962/2000], Score: 1301, Length: 6, Score avg: 822.6014
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1963/2000], Score: 1301, Length: 6, Score avg: 822.8451
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1964/2000], Score: 1301, Length: 6, Score avg: 823.0886
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1965/2000], Score: 1301, Length: 6, Score avg: 823.3318
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1966/2000], Score: 1301, Length: 6, Score avg: 823.5748
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1967/2000], Score: 1301, Length: 6, Score avg: 823.8175
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1968/2000], Score: 1301, Length: 6, Score avg: 824.0600
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1969/2000], Score: 1301, Length: 6, Score avg: 824.3022
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1970/2000], Score: 1301, Length: 6, Score avg: 824.5442
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1971/2000], Score: 1301, Length: 6, Score avg: 824.7859
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1972/2000], Score: 1301, Length: 6, Score avg: 825.0274
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1973/2000], Score: 1301, Length: 6, Score avg: 825.2686
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1974/2000], Score: 1301, Length: 6, Score avg: 825.5096
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1975/2000], Score: 1301, Length: 6, Score avg: 825.7504
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1976/2000], Score: 1301, Length: 6, Score avg: 825.9909
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1977/2000], Score: 1301, Length: 6, Score avg: 826.2312
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1978/2000], Score: 1301, Length: 6, Score avg: 826.4712
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1979/2000], Score: 1301, Length: 6, Score avg: 826.7110
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1980/2000], Score: 1301, Length: 6, Score avg: 826.9505
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1981/2000], Score: 1301, Length: 6, Score avg: 827.1898
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1982/2000], Score: 1301, Length: 6, Score avg: 827.4289
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1983/2000], Score: 1301, Length: 6, Score avg: 827.6677
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1984/2000], Score: 1301, Length: 6, Score avg: 827.9062
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1985/2000], Score: 1301, Length: 6, Score avg: 828.1446
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1986/2000], Score: 1301, Length: 6, Score avg: 828.3827
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1987/2000], Score: 1301, Length: 6, Score avg: 828.6205
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1988/2000], Score: 1301, Length: 6, Score avg: 828.8581
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1989/2000], Score: 1301, Length: 6, Score avg: 829.0955
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1990/2000], Score: 1301, Length: 6, Score avg: 829.3327
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1991/2000], Score: 1301, Length: 6, Score avg: 829.5696
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1992/2000], Score: 1301, Length: 6, Score avg: 829.8062
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1993/2000], Score: 1301, Length: 6, Score avg: 830.0426
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1994/2000], Score: 1301, Length: 6, Score avg: 830.2788
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1995/2000], Score: 1301, Length: 6, Score avg: 830.5148
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1996/2000], Score: 1301, Length: 6, Score avg: 830.7505
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1997/2000], Score: 1301, Length: 6, Score avg: 830.9860
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1998/2000], Score: 1301, Length: 6, Score avg: 831.2212
+[0, 1, 2, 3, 4, 8, 9]
+Episode [1999/2000], Score: 1301, Length: 6, Score avg: 831.4562
+[0, 1, 2, 3, 4, 8, 9]
+Episode [2000/2000], Score: 1301, Length: 6, Score avg: 831.6910
